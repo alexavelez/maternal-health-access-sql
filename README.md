@@ -135,6 +135,8 @@ Full DDL: [`sql/schema.sql`](sql/schema.sql). ETL script (CSV -> SQLite):
   | Medicaid | 66.34% | 2.92% |
   | Self Pay | 52.77% | 7.57% |
 
+  ![Prenatal care access by payment source](docs/charts/01_access_by_payment.png)
+
 - **Teen mothers face the worst access of any age group.** Mothers under 15
   have a 9.58% no-prenatal-care rate — roughly 5x the rate for mothers in
   their late 20s/early 30s (~2%). Access is worst exactly where clinical
@@ -159,6 +161,8 @@ Full DDL: [`sql/schema.sql`](sql/schema.sql). ETL script (CSV -> SQLite):
   | Obesity I | 37.35% |
   | Obesity II | 43.03% |
   | Extreme Obesity III | 52.12% |
+
+  ![Cesarean rate by pre-pregnancy BMI](docs/charts/02_cesarean_by_bmi.png)
 
   Over half of extremely obese mothers deliver via cesarean, roughly double
   the rate at normal BMI.
@@ -218,6 +222,8 @@ the four sub-analyses below tells a much sharper story:
   | No prenatal care vs. 1st-trimester care (cesarean deliveries) | 2.29x |
   | VBAC attempt vs. repeat cesarean (prior-cesarean mothers) | 1.79x |
   | Medicaid vs. Private Insurance (cesarean deliveries) | 1.36x |
+
+  ![Severe maternal morbidity risk factor scan](docs/charts/03_risk_factor_summary.png)
 
   Read together with Chapters 1 and 2: the strongest predictor of severe
   morbidity found in this data is the absence of prenatal care, and its
@@ -336,7 +342,8 @@ maternal-health-access-sql/
 ├── data/
 │   └── raw/                  # raw CDC WONDER export CSVs, as downloaded
 ├── docs/
-│   └── erd.png / erd.svg     # entity-relationship diagram (auto-generated from schema)
+│   ├── erd.png / erd.svg     # entity-relationship diagram (auto-generated from schema)
+│   └── charts/               # findings charts, referenced in the README above
 └── sql/
     ├── schema.sql            # DDL for all fact/dimension tables
     ├── load_data.py          # ETL: raw CDC CSVs -> SQLite
