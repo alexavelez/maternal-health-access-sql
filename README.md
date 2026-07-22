@@ -112,7 +112,7 @@ dimensions (the same `dim_state`, `dim_year`, `dim_delivery_method`, and
 let facts from different exports be joined together for cross-chapter
 comparisons.
 
-![Entity-relationship diagram](docs/erd.png)
+<img src="docs/erd.png" alt="Entity-relationship diagram" width="900">
 
 Full DDL: [`sql/schema.sql`](sql/schema.sql). ETL script (CSV -> SQLite):
 [`sql/load_data.py`](sql/load_data.py).
@@ -135,7 +135,7 @@ Full DDL: [`sql/schema.sql`](sql/schema.sql). ETL script (CSV -> SQLite):
   | Medicaid | 66.34% | 2.92% |
   | Self Pay | 52.77% | 7.57% |
 
-  ![Prenatal care access by payment source](docs/charts/01_access_by_payment.png)
+  <img src="docs/charts/01_access_by_payment.png" alt="Prenatal care access by payment source" width="600">
 
 - **Teen mothers face the worst access of any age group.** Mothers under 15
   have a 9.58% no-prenatal-care rate — roughly 5x the rate for mothers in
@@ -162,7 +162,7 @@ Full DDL: [`sql/schema.sql`](sql/schema.sql). ETL script (CSV -> SQLite):
   | Obesity II | 43.03% |
   | Extreme Obesity III | 52.12% |
 
-  ![Cesarean rate by pre-pregnancy BMI](docs/charts/02_cesarean_by_bmi.png)
+  <img src="docs/charts/02_cesarean_by_bmi.png" alt="Cesarean rate by pre-pregnancy BMI" width="600">
 
   Over half of extremely obese mothers deliver via cesarean, roughly double
   the rate at normal BMI.
@@ -223,7 +223,7 @@ the four sub-analyses below tells a much sharper story:
   | VBAC attempt vs. repeat cesarean (prior-cesarean mothers) | 1.79x |
   | Medicaid vs. Private Insurance (cesarean deliveries) | 1.36x |
 
-  ![Severe maternal morbidity risk factor scan](docs/charts/03_risk_factor_summary.png)
+  <img src="docs/charts/03_risk_factor_summary.png" alt="Severe maternal morbidity risk factor scan" width="600">
 
   Read together with Chapters 1 and 2: the strongest predictor of severe
   morbidity found in this data is the absence of prenatal care, and its
