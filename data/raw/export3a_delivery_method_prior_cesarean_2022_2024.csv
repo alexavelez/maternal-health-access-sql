@@ -1,0 +1,1647 @@
+"Notes","Year","Year Code","State of Residence","State of Residence Code","Delivery Method","Delivery Method Code","Previous Cesarean Delivery","Previous Cesarean Delivery Code","Maternal Morbidity Checked","Maternal Morbidity Checked Code",Births
+,"2022","2022","Alabama","01","Vaginal","1","Yes","1","At least one checked","0",16
+,"2022","2022","Alabama","01","Vaginal","1","Yes","1","None checked","1",921
+,"2022","2022","Alabama","01","Vaginal","1","No","2","At least one checked","0",449
+,"2022","2022","Alabama","01","Vaginal","1","No","2","None checked","1",36720
+,"2022","2022","Alabama","01","Cesarean","2","Yes","1","At least one checked","0",110
+,"2022","2022","Alabama","01","Cesarean","2","Yes","1","None checked","1",7686
+,"2022","2022","Alabama","01","Cesarean","2","No","2","At least one checked","0",142
+,"2022","2022","Alabama","01","Cesarean","2","No","2","None checked","1",12099
+,"2022","2022","Alaska","02","Vaginal","1","Yes","1","At least one checked","0",11
+,"2022","2022","Alaska","02","Vaginal","1","Yes","1","None checked","1",263
+,"2022","2022","Alaska","02","Vaginal","1","No","2","At least one checked","0",203
+,"2022","2022","Alaska","02","Vaginal","1","No","2","None checked","1",6703
+,"2022","2022","Alaska","02","Vaginal","1","Unknown or Not Stated","9","None checked","1",35
+,"2022","2022","Alaska","02","Cesarean","2","Yes","1","At least one checked","0",21
+,"2022","2022","Alaska","02","Cesarean","2","Yes","1","None checked","1",790
+,"2022","2022","Alaska","02","Cesarean","2","No","2","At least one checked","0",33
+,"2022","2022","Alaska","02","Cesarean","2","No","2","None checked","1",1272
+,"2022","2022","Arizona","04","Vaginal","1","Yes","1","At least one checked","0",35
+,"2022","2022","Arizona","04","Vaginal","1","Yes","1","None checked","1",1972
+,"2022","2022","Arizona","04","Vaginal","1","No","2","At least one checked","0",653
+,"2022","2022","Arizona","04","Vaginal","1","No","2","None checked","1",53395
+,"2022","2022","Arizona","04","Cesarean","2","Yes","1","At least one checked","0",122
+,"2022","2022","Arizona","04","Cesarean","2","Yes","1","None checked","1",8963
+,"2022","2022","Arizona","04","Cesarean","2","No","2","At least one checked","0",229
+,"2022","2022","Arizona","04","Cesarean","2","No","2","None checked","1",13175
+,"2022","2022","Arkansas","05","Vaginal","1","Yes","1","At least one checked","0",11
+,"2022","2022","Arkansas","05","Vaginal","1","Yes","1","None checked","1",562
+,"2022","2022","Arkansas","05","Vaginal","1","No","2","At least one checked","0",320
+,"2022","2022","Arkansas","05","Vaginal","1","No","2","None checked","1",22636
+,"2022","2022","Arkansas","05","Cesarean","2","Yes","1","At least one checked","0",68
+,"2022","2022","Arkansas","05","Cesarean","2","Yes","1","None checked","1",4626
+,"2022","2022","Arkansas","05","Cesarean","2","No","2","At least one checked","0",93
+,"2022","2022","Arkansas","05","Cesarean","2","No","2","None checked","1",7151
+,"2022","2022","California","06","Vaginal","1","Yes","1","At least one checked","0",191
+,"2022","2022","California","06","Vaginal","1","Yes","1","None checked","1",8441
+,"2022","2022","California","06","Vaginal","1","Yes","1","Unknown or Not Stated","9",14
+,"2022","2022","California","06","Vaginal","1","No","2","At least one checked","0",3755
+,"2022","2022","California","06","Vaginal","1","No","2","None checked","1",276126
+,"2022","2022","California","06","Vaginal","1","No","2","Unknown or Not Stated","9",552
+,"2022","2022","California","06","Vaginal","1","Unknown or Not Stated","9","None checked","1",11
+,"2022","2022","California","06","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",102
+,"2022","2022","California","06","Cesarean","2","Yes","1","At least one checked","0",500
+,"2022","2022","California","06","Cesarean","2","Yes","1","None checked","1",56962
+,"2022","2022","California","06","Cesarean","2","Yes","1","Unknown or Not Stated","9",72
+,"2022","2022","California","06","Cesarean","2","No","2","At least one checked","0",745
+,"2022","2022","California","06","Cesarean","2","No","2","None checked","1",71566
+,"2022","2022","California","06","Cesarean","2","No","2","Unknown or Not Stated","9",59
+,"2022","2022","Colorado","08","Vaginal","1","Yes","1","At least one checked","0",46
+,"2022","2022","Colorado","08","Vaginal","1","Yes","1","None checked","1",1626
+,"2022","2022","Colorado","08","Vaginal","1","No","2","At least one checked","0",632
+,"2022","2022","Colorado","08","Vaginal","1","No","2","None checked","1",42673
+,"2022","2022","Colorado","08","Cesarean","2","Yes","1","At least one checked","0",90
+,"2022","2022","Colorado","08","Cesarean","2","Yes","1","None checked","1",5779
+,"2022","2022","Colorado","08","Cesarean","2","No","2","At least one checked","0",131
+,"2022","2022","Colorado","08","Cesarean","2","No","2","None checked","1",11387
+,"2022","2022","Connecticut","09","Vaginal","1","Yes","1","At least one checked","0",25
+,"2022","2022","Connecticut","09","Vaginal","1","Yes","1","None checked","1",826
+,"2022","2022","Connecticut","09","Vaginal","1","No","2","At least one checked","0",341
+,"2022","2022","Connecticut","09","Vaginal","1","No","2","None checked","1",21665
+,"2022","2022","Connecticut","09","Vaginal","1","Unknown or Not Stated","9","None checked","1",28
+,"2022","2022","Connecticut","09","Cesarean","2","Yes","1","At least one checked","0",68
+,"2022","2022","Connecticut","09","Cesarean","2","Yes","1","None checked","1",4851
+,"2022","2022","Connecticut","09","Cesarean","2","No","2","At least one checked","0",109
+,"2022","2022","Connecticut","09","Cesarean","2","No","2","None checked","1",7400
+,"2022","2022","Delaware","10","Vaginal","1","Yes","1","None checked","1",192
+,"2022","2022","Delaware","10","Vaginal","1","No","2","At least one checked","0",113
+,"2022","2022","Delaware","10","Vaginal","1","No","2","None checked","1",6975
+,"2022","2022","Delaware","10","Vaginal","1","No","2","Unknown or Not Stated","9",39
+,"2022","2022","Delaware","10","Vaginal","1","Unknown or Not Stated","9","None checked","1",35
+,"2022","2022","Delaware","10","Cesarean","2","Yes","1","At least one checked","0",19
+,"2022","2022","Delaware","10","Cesarean","2","Yes","1","None checked","1",1313
+,"2022","2022","Delaware","10","Cesarean","2","No","2","At least one checked","0",26
+,"2022","2022","Delaware","10","Cesarean","2","No","2","None checked","1",2075
+,"2022","2022","Delaware","10","Cesarean","2","Unknown or Not Stated","9","None checked","1",11
+,"2022","2022","District of Columbia","11","Vaginal","1","Yes","1","None checked","1",206
+,"2022","2022","District of Columbia","11","Vaginal","1","No","2","At least one checked","0",119
+,"2022","2022","District of Columbia","11","Vaginal","1","No","2","None checked","1",5051
+,"2022","2022","District of Columbia","11","Cesarean","2","Yes","1","None checked","1",731
+,"2022","2022","District of Columbia","11","Cesarean","2","No","2","At least one checked","0",39
+,"2022","2022","District of Columbia","11","Cesarean","2","No","2","None checked","1",1906
+,"2022","2022","Florida","12","Vaginal","1","Yes","1","At least one checked","0",43
+,"2022","2022","Florida","12","Vaginal","1","Yes","1","None checked","1",3688
+,"2022","2022","Florida","12","Vaginal","1","No","2","At least one checked","0",1147
+,"2022","2022","Florida","12","Vaginal","1","No","2","None checked","1",138350
+,"2022","2022","Florida","12","Vaginal","1","No","2","Unknown or Not Stated","9",200
+,"2022","2022","Florida","12","Vaginal","1","Unknown or Not Stated","9","None checked","1",173
+,"2022","2022","Florida","12","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",108
+,"2022","2022","Florida","12","Cesarean","2","Yes","1","At least one checked","0",240
+,"2022","2022","Florida","12","Cesarean","2","Yes","1","None checked","1",29025
+,"2022","2022","Florida","12","Cesarean","2","Yes","1","Unknown or Not Stated","9",82
+,"2022","2022","Florida","12","Cesarean","2","No","2","At least one checked","0",473
+,"2022","2022","Florida","12","Cesarean","2","No","2","None checked","1",50513
+,"2022","2022","Florida","12","Cesarean","2","No","2","Unknown or Not Stated","9",114
+,"2022","2022","Florida","12","Cesarean","2","Unknown or Not Stated","9","None checked","1",50
+,"2022","2022","Florida","12","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",29
+,"2022","2022","Florida","12","Unknown or Not Stated","9","No","2","None checked","1",159
+,"2022","2022","Florida","12","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",14
+,"2022","2022","Georgia","13","Vaginal","1","Yes","1","At least one checked","0",14
+,"2022","2022","Georgia","13","Vaginal","1","Yes","1","None checked","1",1606
+,"2022","2022","Georgia","13","Vaginal","1","No","2","At least one checked","0",890
+,"2022","2022","Georgia","13","Vaginal","1","No","2","None checked","1",78955
+,"2022","2022","Georgia","13","Vaginal","1","No","2","Unknown or Not Stated","9",39
+,"2022","2022","Georgia","13","Vaginal","1","Unknown or Not Stated","9","None checked","1",104
+,"2022","2022","Georgia","13","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",35
+,"2022","2022","Georgia","13","Cesarean","2","Yes","1","At least one checked","0",226
+,"2022","2022","Georgia","13","Cesarean","2","Yes","1","None checked","1",15937
+,"2022","2022","Georgia","13","Cesarean","2","Yes","1","Unknown or Not Stated","9",10
+,"2022","2022","Georgia","13","Cesarean","2","No","2","At least one checked","0",371
+,"2022","2022","Georgia","13","Cesarean","2","No","2","None checked","1",27809
+,"2022","2022","Georgia","13","Cesarean","2","No","2","Unknown or Not Stated","9",13
+,"2022","2022","Georgia","13","Cesarean","2","Unknown or Not Stated","9","None checked","1",31
+,"2022","2022","Georgia","13","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",15
+,"2022","2022","Georgia","13","Unknown or Not Stated","9","No","2","None checked","1",42
+,"2022","2022","Georgia","13","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",18
+,"2022","2022","Hawaii","15","Vaginal","1","Yes","1","None checked","1",324
+,"2022","2022","Hawaii","15","Vaginal","1","No","2","At least one checked","0",135
+,"2022","2022","Hawaii","15","Vaginal","1","No","2","None checked","1",10774
+,"2022","2022","Hawaii","15","Cesarean","2","Yes","1","At least one checked","0",14
+,"2022","2022","Hawaii","15","Cesarean","2","Yes","1","None checked","1",1473
+,"2022","2022","Hawaii","15","Cesarean","2","No","2","At least one checked","0",26
+,"2022","2022","Hawaii","15","Cesarean","2","No","2","None checked","1",2781
+,"2022","2022","Idaho","16","Vaginal","1","Yes","1","At least one checked","0",14
+,"2022","2022","Idaho","16","Vaginal","1","Yes","1","None checked","1",640
+,"2022","2022","Idaho","16","Vaginal","1","No","2","At least one checked","0",249
+,"2022","2022","Idaho","16","Vaginal","1","No","2","None checked","1",15977
+,"2022","2022","Idaho","16","Vaginal","1","Unknown or Not Stated","9","None checked","1",16
+,"2022","2022","Idaho","16","Cesarean","2","Yes","1","At least one checked","0",33
+,"2022","2022","Idaho","16","Cesarean","2","Yes","1","None checked","1",2131
+,"2022","2022","Idaho","16","Cesarean","2","No","2","At least one checked","0",63
+,"2022","2022","Idaho","16","Cesarean","2","No","2","None checked","1",3250
+,"2022","2022","Illinois","17","Vaginal","1","Yes","1","At least one checked","0",63
+,"2022","2022","Illinois","17","Vaginal","1","Yes","1","None checked","1",3335
+,"2022","2022","Illinois","17","Vaginal","1","No","2","At least one checked","0",1386
+,"2022","2022","Illinois","17","Vaginal","1","No","2","None checked","1",83668
+,"2022","2022","Illinois","17","Vaginal","1","No","2","Unknown or Not Stated","9",34
+,"2022","2022","Illinois","17","Vaginal","1","Unknown or Not Stated","9","None checked","1",76
+,"2022","2022","Illinois","17","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",38
+,"2022","2022","Illinois","17","Cesarean","2","Yes","1","At least one checked","0",314
+,"2022","2022","Illinois","17","Cesarean","2","Yes","1","None checked","1",16441
+,"2022","2022","Illinois","17","Cesarean","2","No","2","At least one checked","0",509
+,"2022","2022","Illinois","17","Cesarean","2","No","2","None checked","1",22428
+,"2022","2022","Illinois","17","Cesarean","2","Unknown or Not Stated","9","None checked","1",15
+,"2022","2022","Illinois","17","Unknown or Not Stated","9","No","2","None checked","1",12
+,"2022","2022","Indiana","18","Vaginal","1","Yes","1","At least one checked","0",37
+,"2022","2022","Indiana","18","Vaginal","1","Yes","1","None checked","1",1696
+,"2022","2022","Indiana","18","Vaginal","1","No","2","At least one checked","0",755
+,"2022","2022","Indiana","18","Vaginal","1","No","2","None checked","1",52549
+,"2022","2022","Indiana","18","Vaginal","1","No","2","Unknown or Not Stated","9",17
+,"2022","2022","Indiana","18","Vaginal","1","Unknown or Not Stated","9","None checked","1",297
+,"2022","2022","Indiana","18","Cesarean","2","Yes","1","At least one checked","0",120
+,"2022","2022","Indiana","18","Cesarean","2","Yes","1","None checked","1",9409
+,"2022","2022","Indiana","18","Cesarean","2","No","2","At least one checked","0",220
+,"2022","2022","Indiana","18","Cesarean","2","No","2","None checked","1",14430
+,"2022","2022","Indiana","18","Cesarean","2","No","2","Unknown or Not Stated","9",11
+,"2022","2022","Indiana","18","Cesarean","2","Unknown or Not Stated","9","None checked","1",81
+,"2022","2022","Iowa","19","Vaginal","1","Yes","1","At least one checked","0",30
+,"2022","2022","Iowa","19","Vaginal","1","Yes","1","None checked","1",858
+,"2022","2022","Iowa","19","Vaginal","1","No","2","At least one checked","0",491
+,"2022","2022","Iowa","19","Vaginal","1","No","2","None checked","1",24329
+,"2022","2022","Iowa","19","Cesarean","2","Yes","1","At least one checked","0",101
+,"2022","2022","Iowa","19","Cesarean","2","Yes","1","None checked","1",4379
+,"2022","2022","Iowa","19","Cesarean","2","No","2","At least one checked","0",145
+,"2022","2022","Iowa","19","Cesarean","2","No","2","None checked","1",6161
+,"2022","2022","Kansas","20","Vaginal","1","Yes","1","At least one checked","0",13
+,"2022","2022","Kansas","20","Vaginal","1","Yes","1","None checked","1",875
+,"2022","2022","Kansas","20","Vaginal","1","No","2","At least one checked","0",277
+,"2022","2022","Kansas","20","Vaginal","1","No","2","None checked","1",22880
+,"2022","2022","Kansas","20","Cesarean","2","Yes","1","At least one checked","0",46
+,"2022","2022","Kansas","20","Cesarean","2","Yes","1","None checked","1",4347
+,"2022","2022","Kansas","20","Cesarean","2","No","2","At least one checked","0",75
+,"2022","2022","Kansas","20","Cesarean","2","No","2","None checked","1",5884
+,"2022","2022","Kentucky","21","Vaginal","1","Yes","1","At least one checked","0",22
+,"2022","2022","Kentucky","21","Vaginal","1","Yes","1","None checked","1",985
+,"2022","2022","Kentucky","21","Vaginal","1","No","2","At least one checked","0",525
+,"2022","2022","Kentucky","21","Vaginal","1","No","2","None checked","1",32520
+,"2022","2022","Kentucky","21","Vaginal","1","No","2","Unknown or Not Stated","9",89
+,"2022","2022","Kentucky","21","Vaginal","1","Unknown or Not Stated","9","None checked","1",71
+,"2022","2022","Kentucky","21","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",25
+,"2022","2022","Kentucky","21","Cesarean","2","Yes","1","At least one checked","0",81
+,"2022","2022","Kentucky","21","Cesarean","2","Yes","1","None checked","1",7842
+,"2022","2022","Kentucky","21","Cesarean","2","Yes","1","Unknown or Not Stated","9",14
+,"2022","2022","Kentucky","21","Cesarean","2","No","2","At least one checked","0",153
+,"2022","2022","Kentucky","21","Cesarean","2","No","2","None checked","1",9872
+,"2022","2022","Kentucky","21","Cesarean","2","No","2","Unknown or Not Stated","9",24
+,"2022","2022","Kentucky","21","Cesarean","2","Unknown or Not Stated","9","None checked","1",22
+,"2022","2022","Kentucky","21","Unknown or Not Stated","9","No","2","None checked","1",30
+,"2022","2022","Kentucky","21","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",11
+,"2022","2022","Louisiana","22","Vaginal","1","Yes","1","At least one checked","0",14
+,"2022","2022","Louisiana","22","Vaginal","1","Yes","1","None checked","1",952
+,"2022","2022","Louisiana","22","Vaginal","1","No","2","At least one checked","0",382
+,"2022","2022","Louisiana","22","Vaginal","1","No","2","None checked","1",35074
+,"2022","2022","Louisiana","22","Cesarean","2","Yes","1","At least one checked","0",95
+,"2022","2022","Louisiana","22","Cesarean","2","Yes","1","None checked","1",8357
+,"2022","2022","Louisiana","22","Cesarean","2","No","2","At least one checked","0",144
+,"2022","2022","Louisiana","22","Cesarean","2","No","2","None checked","1",11460
+,"2022","2022","Maine","23","Vaginal","1","Yes","1","At least one checked","0",16
+,"2022","2022","Maine","23","Vaginal","1","Yes","1","None checked","1",225
+,"2022","2022","Maine","23","Vaginal","1","No","2","At least one checked","0",267
+,"2022","2022","Maine","23","Vaginal","1","No","2","None checked","1",7740
+,"2022","2022","Maine","23","Cesarean","2","Yes","1","At least one checked","0",21
+,"2022","2022","Maine","23","Cesarean","2","Yes","1","None checked","1",1397
+,"2022","2022","Maine","23","Cesarean","2","No","2","At least one checked","0",27
+,"2022","2022","Maine","23","Cesarean","2","No","2","None checked","1",2385
+,"2022","2022","Maryland","24","Vaginal","1","Yes","1","At least one checked","0",52
+,"2022","2022","Maryland","24","Vaginal","1","Yes","1","None checked","1",1879
+,"2022","2022","Maryland","24","Vaginal","1","No","2","At least one checked","0",631
+,"2022","2022","Maryland","24","Vaginal","1","No","2","None checked","1",42562
+,"2022","2022","Maryland","24","Vaginal","1","No","2","Unknown or Not Stated","9",11
+,"2022","2022","Maryland","24","Vaginal","1","Unknown or Not Stated","9","None checked","1",22
+,"2022","2022","Maryland","24","Cesarean","2","Yes","1","At least one checked","0",150
+,"2022","2022","Maryland","24","Cesarean","2","Yes","1","None checked","1",9449
+,"2022","2022","Maryland","24","Cesarean","2","No","2","At least one checked","0",230
+,"2022","2022","Maryland","24","Cesarean","2","No","2","None checked","1",13755
+,"2022","2022","Maryland","24","Cesarean","2","Unknown or Not Stated","9","None checked","1",11
+,"2022","2022","Maryland","24","Unknown or Not Stated","9","No","2","None checked","1",10
+,"2022","2022","Massachusetts","25","Vaginal","1","Yes","1","At least one checked","0",61
+,"2022","2022","Massachusetts","25","Vaginal","1","Yes","1","None checked","1",1640
+,"2022","2022","Massachusetts","25","Vaginal","1","No","2","At least one checked","0",985
+,"2022","2022","Massachusetts","25","Vaginal","1","No","2","None checked","1",43060
+,"2022","2022","Massachusetts","25","Cesarean","2","Yes","1","At least one checked","0",133
+,"2022","2022","Massachusetts","25","Cesarean","2","Yes","1","None checked","1",9116
+,"2022","2022","Massachusetts","25","Cesarean","2","No","2","At least one checked","0",187
+,"2022","2022","Massachusetts","25","Cesarean","2","No","2","None checked","1",13219
+,"2022","2022","Massachusetts","25","Unknown or Not Stated","9","No","2","None checked","1",12
+,"2022","2022","Massachusetts","25","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",157
+,"2022","2022","Michigan","26","Vaginal","1","Yes","1","At least one checked","0",56
+,"2022","2022","Michigan","26","Vaginal","1","Yes","1","None checked","1",2374
+,"2022","2022","Michigan","26","Vaginal","1","No","2","At least one checked","0",1036
+,"2022","2022","Michigan","26","Vaginal","1","No","2","None checked","1",64605
+,"2022","2022","Michigan","26","Vaginal","1","No","2","Unknown or Not Stated","9",128
+,"2022","2022","Michigan","26","Vaginal","1","Unknown or Not Stated","9","None checked","1",160
+,"2022","2022","Michigan","26","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",16
+,"2022","2022","Michigan","26","Cesarean","2","Yes","1","At least one checked","0",182
+,"2022","2022","Michigan","26","Cesarean","2","Yes","1","None checked","1",13468
+,"2022","2022","Michigan","26","Cesarean","2","Yes","1","Unknown or Not Stated","9",18
+,"2022","2022","Michigan","26","Cesarean","2","No","2","At least one checked","0",388
+,"2022","2022","Michigan","26","Cesarean","2","No","2","None checked","1",19759
+,"2022","2022","Michigan","26","Cesarean","2","No","2","Unknown or Not Stated","9",27
+,"2022","2022","Michigan","26","Cesarean","2","Unknown or Not Stated","9","None checked","1",48
+,"2022","2022","Michigan","26","Unknown or Not Stated","9","No","2","None checked","1",14
+,"2022","2022","Michigan","26","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",17
+,"2022","2022","Minnesota","27","Vaginal","1","Yes","1","At least one checked","0",68
+,"2022","2022","Minnesota","27","Vaginal","1","Yes","1","None checked","1",1906
+,"2022","2022","Minnesota","27","Vaginal","1","No","2","At least one checked","0",953
+,"2022","2022","Minnesota","27","Vaginal","1","No","2","None checked","1",41783
+,"2022","2022","Minnesota","27","Vaginal","1","No","2","Unknown or Not Stated","9",34
+,"2022","2022","Minnesota","27","Vaginal","1","Unknown or Not Stated","9","None checked","1",38
+,"2022","2022","Minnesota","27","Cesarean","2","Yes","1","At least one checked","0",119
+,"2022","2022","Minnesota","27","Cesarean","2","Yes","1","None checked","1",7456
+,"2022","2022","Minnesota","27","Cesarean","2","No","2","At least one checked","0",181
+,"2022","2022","Minnesota","27","Cesarean","2","No","2","None checked","1",11387
+,"2022","2022","Minnesota","27","Unknown or Not Stated","9","No","2","None checked","1",40
+,"2022","2022","Minnesota","27","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",19
+,"2022","2022","Mississippi","28","Vaginal","1","Yes","1","None checked","1",537
+,"2022","2022","Mississippi","28","Vaginal","1","No","2","At least one checked","0",234
+,"2022","2022","Mississippi","28","Vaginal","1","No","2","None checked","1",20545
+,"2022","2022","Mississippi","28","Cesarean","2","Yes","1","At least one checked","0",70
+,"2022","2022","Mississippi","28","Cesarean","2","Yes","1","None checked","1",6029
+,"2022","2022","Mississippi","28","Cesarean","2","No","2","At least one checked","0",76
+,"2022","2022","Mississippi","28","Cesarean","2","No","2","None checked","1",7161
+,"2022","2022","Missouri","29","Vaginal","1","Yes","1","At least one checked","0",30
+,"2022","2022","Missouri","29","Vaginal","1","Yes","1","None checked","1",1639
+,"2022","2022","Missouri","29","Vaginal","1","No","2","At least one checked","0",680
+,"2022","2022","Missouri","29","Vaginal","1","No","2","None checked","1",45613
+,"2022","2022","Missouri","29","Cesarean","2","Yes","1","At least one checked","0",105
+,"2022","2022","Missouri","29","Cesarean","2","Yes","1","None checked","1",7885
+,"2022","2022","Missouri","29","Cesarean","2","No","2","At least one checked","0",207
+,"2022","2022","Missouri","29","Cesarean","2","No","2","None checked","1",12763
+,"2022","2022","Missouri","29","Unknown or Not Stated","9","No","2","None checked","1",55
+,"2022","2022","Montana","30","Vaginal","1","Yes","1","At least one checked","0",11
+,"2022","2022","Montana","30","Vaginal","1","Yes","1","None checked","1",286
+,"2022","2022","Montana","30","Vaginal","1","No","2","At least one checked","0",129
+,"2022","2022","Montana","30","Vaginal","1","No","2","None checked","1",7718
+,"2022","2022","Montana","30","Cesarean","2","Yes","1","At least one checked","0",17
+,"2022","2022","Montana","30","Cesarean","2","Yes","1","None checked","1",1187
+,"2022","2022","Montana","30","Cesarean","2","No","2","At least one checked","0",39
+,"2022","2022","Montana","30","Cesarean","2","No","2","None checked","1",1777
+,"2022","2022","Nebraska","31","Vaginal","1","Yes","1","At least one checked","0",24
+,"2022","2022","Nebraska","31","Vaginal","1","Yes","1","None checked","1",660
+,"2022","2022","Nebraska","31","Vaginal","1","No","2","At least one checked","0",352
+,"2022","2022","Nebraska","31","Vaginal","1","No","2","None checked","1",16232
+,"2022","2022","Nebraska","31","Vaginal","1","No","2","Unknown or Not Stated","9",15
+,"2022","2022","Nebraska","31","Vaginal","1","Unknown or Not Stated","9","None checked","1",26
+,"2022","2022","Nebraska","31","Cesarean","2","Yes","1","At least one checked","0",46
+,"2022","2022","Nebraska","31","Cesarean","2","Yes","1","None checked","1",2956
+,"2022","2022","Nebraska","31","Cesarean","2","No","2","At least one checked","0",92
+,"2022","2022","Nebraska","31","Cesarean","2","No","2","None checked","1",3930
+,"2022","2022","Nevada","32","Vaginal","1","Yes","1","None checked","1",706
+,"2022","2022","Nevada","32","Vaginal","1","No","2","At least one checked","0",284
+,"2022","2022","Nevada","32","Vaginal","1","No","2","None checked","1",21283
+,"2022","2022","Nevada","32","Cesarean","2","Yes","1","At least one checked","0",36
+,"2022","2022","Nevada","32","Cesarean","2","Yes","1","None checked","1",3908
+,"2022","2022","Nevada","32","Cesarean","2","No","2","At least one checked","0",81
+,"2022","2022","Nevada","32","Cesarean","2","No","2","None checked","1",6881
+,"2022","2022","New Hampshire","33","Vaginal","1","Yes","1","At least one checked","0",10
+,"2022","2022","New Hampshire","33","Vaginal","1","Yes","1","None checked","1",268
+,"2022","2022","New Hampshire","33","Vaginal","1","No","2","At least one checked","0",229
+,"2022","2022","New Hampshire","33","Vaginal","1","No","2","None checked","1",7654
+,"2022","2022","New Hampshire","33","Vaginal","1","No","2","Unknown or Not Stated","9",13
+,"2022","2022","New Hampshire","33","Vaginal","1","Unknown or Not Stated","9","None checked","1",16
+,"2022","2022","New Hampshire","33","Cesarean","2","Yes","1","At least one checked","0",24
+,"2022","2022","New Hampshire","33","Cesarean","2","Yes","1","None checked","1",1368
+,"2022","2022","New Hampshire","33","Cesarean","2","No","2","At least one checked","0",56
+,"2022","2022","New Hampshire","33","Cesarean","2","No","2","None checked","1",2411
+,"2022","2022","New Jersey","34","Vaginal","1","Yes","1","At least one checked","0",73
+,"2022","2022","New Jersey","34","Vaginal","1","Yes","1","None checked","1",2605
+,"2022","2022","New Jersey","34","Vaginal","1","Yes","1","Unknown or Not Stated","9",10
+,"2022","2022","New Jersey","34","Vaginal","1","No","2","At least one checked","0",1294
+,"2022","2022","New Jersey","34","Vaginal","1","No","2","None checked","1",64912
+,"2022","2022","New Jersey","34","Vaginal","1","No","2","Unknown or Not Stated","9",145
+,"2022","2022","New Jersey","34","Cesarean","2","Yes","1","At least one checked","0",231
+,"2022","2022","New Jersey","34","Cesarean","2","Yes","1","None checked","1",14941
+,"2022","2022","New Jersey","34","Cesarean","2","Yes","1","Unknown or Not Stated","9",36
+,"2022","2022","New Jersey","34","Cesarean","2","No","2","At least one checked","0",330
+,"2022","2022","New Jersey","34","Cesarean","2","No","2","None checked","1",18261
+,"2022","2022","New Jersey","34","Cesarean","2","No","2","Unknown or Not Stated","9",45
+,"2022","2022","New Mexico","35","Vaginal","1","Yes","1","None checked","1",512
+,"2022","2022","New Mexico","35","Vaginal","1","No","2","At least one checked","0",240
+,"2022","2022","New Mexico","35","Vaginal","1","No","2","None checked","1",15014
+,"2022","2022","New Mexico","35","Cesarean","2","Yes","1","At least one checked","0",22
+,"2022","2022","New Mexico","35","Cesarean","2","Yes","1","None checked","1",2205
+,"2022","2022","New Mexico","35","Cesarean","2","No","2","At least one checked","0",37
+,"2022","2022","New Mexico","35","Cesarean","2","No","2","None checked","1",3572
+,"2022","2022","New York","36","Vaginal","1","Yes","1","At least one checked","0",119
+,"2022","2022","New York","36","Vaginal","1","Yes","1","None checked","1",5099
+,"2022","2022","New York","36","Vaginal","1","No","2","At least one checked","0",2211
+,"2022","2022","New York","36","Vaginal","1","No","2","None checked","1",129144
+,"2022","2022","New York","36","Vaginal","1","No","2","Unknown or Not Stated","9",236
+,"2022","2022","New York","36","Vaginal","1","Unknown or Not Stated","9","None checked","1",133
+,"2022","2022","New York","36","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",14
+,"2022","2022","New York","36","Cesarean","2","Yes","1","At least one checked","0",511
+,"2022","2022","New York","36","Cesarean","2","Yes","1","None checked","1",29762
+,"2022","2022","New York","36","Cesarean","2","Yes","1","Unknown or Not Stated","9",60
+,"2022","2022","New York","36","Cesarean","2","No","2","At least one checked","0",754
+,"2022","2022","New York","36","Cesarean","2","No","2","None checked","1",39146
+,"2022","2022","New York","36","Cesarean","2","No","2","Unknown or Not Stated","9",65
+,"2022","2022","New York","36","Cesarean","2","Unknown or Not Stated","9","None checked","1",28
+,"2022","2022","New York","36","Unknown or Not Stated","9","No","2","None checked","1",90
+,"2022","2022","New York","36","Unknown or Not Stated","9","Unknown or Not Stated","9","None checked","1",22
+,"2022","2022","New York","36","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",353
+,"2022","2022","North Carolina","37","Vaginal","1","Yes","1","At least one checked","0",49
+,"2022","2022","North Carolina","37","Vaginal","1","Yes","1","None checked","1",3076
+,"2022","2022","North Carolina","37","Vaginal","1","No","2","At least one checked","0",1187
+,"2022","2022","North Carolina","37","Vaginal","1","No","2","None checked","1",80285
+,"2022","2022","North Carolina","37","Vaginal","1","Unknown or Not Stated","9","None checked","1",13
+,"2022","2022","North Carolina","37","Cesarean","2","Yes","1","At least one checked","0",200
+,"2022","2022","North Carolina","37","Cesarean","2","Yes","1","None checked","1",14024
+,"2022","2022","North Carolina","37","Cesarean","2","No","2","At least one checked","0",300
+,"2022","2022","North Carolina","37","Cesarean","2","No","2","None checked","1",22130
+,"2022","2022","North Carolina","37","Unknown or Not Stated","9","Yes","1","None checked","1",33
+,"2022","2022","North Carolina","37","Unknown or Not Stated","9","No","2","None checked","1",244
+,"2022","2022","North Dakota","38","Vaginal","1","Yes","1","None checked","1",274
+,"2022","2022","North Dakota","38","Vaginal","1","No","2","At least one checked","0",148
+,"2022","2022","North Dakota","38","Vaginal","1","No","2","None checked","1",6650
+,"2022","2022","North Dakota","38","Cesarean","2","Yes","1","At least one checked","0",25
+,"2022","2022","North Dakota","38","Cesarean","2","Yes","1","None checked","1",1141
+,"2022","2022","North Dakota","38","Cesarean","2","No","2","At least one checked","0",44
+,"2022","2022","North Dakota","38","Cesarean","2","No","2","None checked","1",1278
+,"2022","2022","Ohio","39","Vaginal","1","Yes","1","At least one checked","0",123
+,"2022","2022","Ohio","39","Vaginal","1","Yes","1","None checked","1",3378
+,"2022","2022","Ohio","39","Vaginal","1","No","2","At least one checked","0",1836
+,"2022","2022","Ohio","39","Vaginal","1","No","2","None checked","1",82572
+,"2022","2022","Ohio","39","Vaginal","1","Unknown or Not Stated","9","None checked","1",15
+,"2022","2022","Ohio","39","Cesarean","2","Yes","1","At least one checked","0",280
+,"2022","2022","Ohio","39","Cesarean","2","Yes","1","None checked","1",17131
+,"2022","2022","Ohio","39","Cesarean","2","No","2","At least one checked","0",454
+,"2022","2022","Ohio","39","Cesarean","2","No","2","None checked","1",22342
+,"2022","2022","Ohio","39","Unknown or Not Stated","9","No","2","None checked","1",53
+,"2022","2022","Oklahoma","40","Vaginal","1","Yes","1","At least one checked","0",11
+,"2022","2022","Oklahoma","40","Vaginal","1","Yes","1","None checked","1",726
+,"2022","2022","Oklahoma","40","Vaginal","1","No","2","At least one checked","0",471
+,"2022","2022","Oklahoma","40","Vaginal","1","No","2","None checked","1",31413
+,"2022","2022","Oklahoma","40","Cesarean","2","Yes","1","At least one checked","0",113
+,"2022","2022","Oklahoma","40","Cesarean","2","Yes","1","None checked","1",6635
+,"2022","2022","Oklahoma","40","Cesarean","2","No","2","At least one checked","0",203
+,"2022","2022","Oklahoma","40","Cesarean","2","No","2","None checked","1",8721
+,"2022","2022","Oklahoma","40","Unknown or Not Stated","9","No","2","None checked","1",26
+,"2022","2022","Oregon","41","Vaginal","1","Yes","1","At least one checked","0",43
+,"2022","2022","Oregon","41","Vaginal","1","Yes","1","None checked","1",955
+,"2022","2022","Oregon","41","Vaginal","1","No","2","At least one checked","0",633
+,"2022","2022","Oregon","41","Vaginal","1","No","2","None checked","1",26200
+,"2022","2022","Oregon","41","Vaginal","1","No","2","Unknown or Not Stated","9",142
+,"2022","2022","Oregon","41","Cesarean","2","Yes","1","At least one checked","0",48
+,"2022","2022","Oregon","41","Cesarean","2","Yes","1","None checked","1",4153
+,"2022","2022","Oregon","41","Cesarean","2","Yes","1","Unknown or Not Stated","9",16
+,"2022","2022","Oregon","41","Cesarean","2","No","2","At least one checked","0",115
+,"2022","2022","Oregon","41","Cesarean","2","No","2","None checked","1",7128
+,"2022","2022","Oregon","41","Cesarean","2","No","2","Unknown or Not Stated","9",46
+,"2022","2022","Pennsylvania","42","Vaginal","1","Yes","1","At least one checked","0",83
+,"2022","2022","Pennsylvania","42","Vaginal","1","Yes","1","None checked","1",3555
+,"2022","2022","Pennsylvania","42","Vaginal","1","Yes","1","Unknown or Not Stated","9",44
+,"2022","2022","Pennsylvania","42","Vaginal","1","No","2","At least one checked","0",1193
+,"2022","2022","Pennsylvania","42","Vaginal","1","No","2","None checked","1",83054
+,"2022","2022","Pennsylvania","42","Vaginal","1","No","2","Unknown or Not Stated","9",845
+,"2022","2022","Pennsylvania","42","Vaginal","1","Unknown or Not Stated","9","At least one checked","0",10
+,"2022","2022","Pennsylvania","42","Vaginal","1","Unknown or Not Stated","9","None checked","1",651
+,"2022","2022","Pennsylvania","42","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",245
+,"2022","2022","Pennsylvania","42","Cesarean","2","Yes","1","At least one checked","0",196
+,"2022","2022","Pennsylvania","42","Cesarean","2","Yes","1","None checked","1",15853
+,"2022","2022","Pennsylvania","42","Cesarean","2","Yes","1","Unknown or Not Stated","9",221
+,"2022","2022","Pennsylvania","42","Cesarean","2","No","2","At least one checked","0",389
+,"2022","2022","Pennsylvania","42","Cesarean","2","No","2","None checked","1",22978
+,"2022","2022","Pennsylvania","42","Cesarean","2","No","2","Unknown or Not Stated","9",339
+,"2022","2022","Pennsylvania","42","Cesarean","2","Unknown or Not Stated","9","At least one checked","0",13
+,"2022","2022","Pennsylvania","42","Cesarean","2","Unknown or Not Stated","9","None checked","1",340
+,"2022","2022","Pennsylvania","42","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",113
+,"2022","2022","Pennsylvania","42","Unknown or Not Stated","9","No","2","None checked","1",30
+,"2022","2022","Pennsylvania","42","Unknown or Not Stated","9","No","2","Unknown or Not Stated","9",21
+,"2022","2022","Pennsylvania","42","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",60
+,"2022","2022","Rhode Island","44","Vaginal","1","Yes","1","None checked","1",242
+,"2022","2022","Rhode Island","44","Vaginal","1","No","2","At least one checked","0",143
+,"2022","2022","Rhode Island","44","Vaginal","1","No","2","None checked","1",6239
+,"2022","2022","Rhode Island","44","Vaginal","1","No","2","Unknown or Not Stated","9",13
+,"2022","2022","Rhode Island","44","Vaginal","1","Unknown or Not Stated","9","None checked","1",11
+,"2022","2022","Rhode Island","44","Cesarean","2","Yes","1","At least one checked","0",30
+,"2022","2022","Rhode Island","44","Cesarean","2","Yes","1","None checked","1",1259
+,"2022","2022","Rhode Island","44","Cesarean","2","No","2","At least one checked","0",42
+,"2022","2022","Rhode Island","44","Cesarean","2","No","2","None checked","1",2216
+,"2022","2022","Rhode Island","44","Unknown or Not Stated","9","No","2","None checked","1",41
+,"2022","2022","South Carolina","45","Vaginal","1","Yes","1","At least one checked","0",21
+,"2022","2022","South Carolina","45","Vaginal","1","Yes","1","None checked","1",1124
+,"2022","2022","South Carolina","45","Vaginal","1","No","2","At least one checked","0",448
+,"2022","2022","South Carolina","45","Vaginal","1","No","2","None checked","1",37150
+,"2022","2022","South Carolina","45","Vaginal","1","No","2","Unknown or Not Stated","9",152
+,"2022","2022","South Carolina","45","Vaginal","1","Unknown or Not Stated","9","None checked","1",36
+,"2022","2022","South Carolina","45","Cesarean","2","Yes","1","At least one checked","0",67
+,"2022","2022","South Carolina","45","Cesarean","2","Yes","1","None checked","1",7261
+,"2022","2022","South Carolina","45","Cesarean","2","Yes","1","Unknown or Not Stated","9",24
+,"2022","2022","South Carolina","45","Cesarean","2","No","2","At least one checked","0",90
+,"2022","2022","South Carolina","45","Cesarean","2","No","2","None checked","1",11352
+,"2022","2022","South Carolina","45","Cesarean","2","No","2","Unknown or Not Stated","9",49
+,"2022","2022","South Carolina","45","Cesarean","2","Unknown or Not Stated","9","None checked","1",14
+,"2022","2022","South Carolina","45","Unknown or Not Stated","9","No","2","None checked","1",12
+,"2022","2022","South Dakota","46","Vaginal","1","Yes","1","At least one checked","0",11
+,"2022","2022","South Dakota","46","Vaginal","1","Yes","1","None checked","1",317
+,"2022","2022","South Dakota","46","Vaginal","1","No","2","At least one checked","0",162
+,"2022","2022","South Dakota","46","Vaginal","1","No","2","None checked","1",8008
+,"2022","2022","South Dakota","46","Vaginal","1","Unknown or Not Stated","9","None checked","1",10
+,"2022","2022","South Dakota","46","Cesarean","2","Yes","1","At least one checked","0",13
+,"2022","2022","South Dakota","46","Cesarean","2","Yes","1","None checked","1",1039
+,"2022","2022","South Dakota","46","Cesarean","2","No","2","At least one checked","0",22
+,"2022","2022","South Dakota","46","Cesarean","2","No","2","None checked","1",1611
+,"2022","2022","Tennessee","47","Vaginal","1","Yes","1","At least one checked","0",28
+,"2022","2022","Tennessee","47","Vaginal","1","Yes","1","None checked","1",1744
+,"2022","2022","Tennessee","47","Vaginal","1","No","2","At least one checked","0",812
+,"2022","2022","Tennessee","47","Vaginal","1","No","2","None checked","1",53285
+,"2022","2022","Tennessee","47","Cesarean","2","Yes","1","At least one checked","0",137
+,"2022","2022","Tennessee","47","Cesarean","2","Yes","1","None checked","1",10589
+,"2022","2022","Tennessee","47","Cesarean","2","No","2","At least one checked","0",231
+,"2022","2022","Tennessee","47","Cesarean","2","No","2","None checked","1",15432
+,"2022","2022","Texas","48","Vaginal","1","Yes","1","At least one checked","0",77
+,"2022","2022","Texas","48","Vaginal","1","Yes","1","None checked","1",5962
+,"2022","2022","Texas","48","Vaginal","1","No","2","At least one checked","0",1841
+,"2022","2022","Texas","48","Vaginal","1","No","2","None checked","1",245644
+,"2022","2022","Texas","48","Vaginal","1","Unknown or Not Stated","9","None checked","1",1014
+,"2022","2022","Texas","48","Cesarean","2","Yes","1","At least one checked","0",423
+,"2022","2022","Texas","48","Cesarean","2","Yes","1","None checked","1",55100
+,"2022","2022","Texas","48","Cesarean","2","No","2","At least one checked","0",621
+,"2022","2022","Texas","48","Cesarean","2","No","2","None checked","1",78543
+,"2022","2022","Texas","48","Cesarean","2","Unknown or Not Stated","9","None checked","1",284
+,"2022","2022","Texas","48","Unknown or Not Stated","9","Yes","1","None checked","1",10
+,"2022","2022","Texas","48","Unknown or Not Stated","9","No","2","None checked","1",128
+,"2022","2022","Texas","48","Unknown or Not Stated","9","Unknown or Not Stated","9","None checked","1",65
+,"2022","2022","Utah","49","Vaginal","1","Yes","1","At least one checked","0",41
+,"2022","2022","Utah","49","Vaginal","1","Yes","1","None checked","1",1547
+,"2022","2022","Utah","49","Vaginal","1","No","2","At least one checked","0",643
+,"2022","2022","Utah","49","Vaginal","1","No","2","None checked","1",32535
+,"2022","2022","Utah","49","Cesarean","2","Yes","1","At least one checked","0",119
+,"2022","2022","Utah","49","Cesarean","2","Yes","1","None checked","1",4626
+,"2022","2022","Utah","49","Cesarean","2","No","2","At least one checked","0",217
+,"2022","2022","Utah","49","Cesarean","2","No","2","None checked","1",6025
+,"2022","2022","Utah","49","Unknown or Not Stated","9","No","2","None checked","1",12
+,"2022","2022","Vermont","50","Vaginal","1","Yes","1","None checked","1",143
+,"2022","2022","Vermont","50","Vaginal","1","No","2","At least one checked","0",70
+,"2022","2022","Vermont","50","Vaginal","1","No","2","None checked","1",3599
+,"2022","2022","Vermont","50","Cesarean","2","Yes","1","At least one checked","0",11
+,"2022","2022","Vermont","50","Cesarean","2","Yes","1","None checked","1",523
+,"2022","2022","Vermont","50","Cesarean","2","No","2","At least one checked","0",31
+,"2022","2022","Vermont","50","Cesarean","2","No","2","None checked","1",930
+,"2022","2022","Virginia","51","Vaginal","1","Yes","1","At least one checked","0",52
+,"2022","2022","Virginia","51","Vaginal","1","Yes","1","None checked","1",2687
+,"2022","2022","Virginia","51","Vaginal","1","No","2","At least one checked","0",545
+,"2022","2022","Virginia","51","Vaginal","1","No","2","None checked","1",61419
+,"2022","2022","Virginia","51","Cesarean","2","Yes","1","At least one checked","0",84
+,"2022","2022","Virginia","51","Cesarean","2","Yes","1","None checked","1",13843
+,"2022","2022","Virginia","51","Cesarean","2","No","2","At least one checked","0",141
+,"2022","2022","Virginia","51","Cesarean","2","No","2","None checked","1",16837
+,"2022","2022","Virginia","51","Unknown or Not Stated","9","No","2","None checked","1",12
+,"2022","2022","Washington","53","Vaginal","1","Yes","1","At least one checked","0",56
+,"2022","2022","Washington","53","Vaginal","1","Yes","1","None checked","1",2151
+,"2022","2022","Washington","53","Vaginal","1","No","2","At least one checked","0",1092
+,"2022","2022","Washington","53","Vaginal","1","No","2","None checked","1",54448
+,"2022","2022","Washington","53","Vaginal","1","No","2","Unknown or Not Stated","9",145
+,"2022","2022","Washington","53","Vaginal","1","Unknown or Not Stated","9","None checked","1",224
+,"2022","2022","Washington","53","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",100
+,"2022","2022","Washington","53","Cesarean","2","Yes","1","At least one checked","0",108
+,"2022","2022","Washington","53","Cesarean","2","Yes","1","None checked","1",8621
+,"2022","2022","Washington","53","Cesarean","2","Yes","1","Unknown or Not Stated","9",27
+,"2022","2022","Washington","53","Cesarean","2","No","2","At least one checked","0",255
+,"2022","2022","Washington","53","Cesarean","2","No","2","None checked","1",15399
+,"2022","2022","Washington","53","Cesarean","2","No","2","Unknown or Not Stated","9",59
+,"2022","2022","Washington","53","Cesarean","2","Unknown or Not Stated","9","None checked","1",107
+,"2022","2022","Washington","53","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",31
+,"2022","2022","Washington","53","Unknown or Not Stated","9","Yes","1","None checked","1",20
+,"2022","2022","Washington","53","Unknown or Not Stated","9","No","2","None checked","1",262
+,"2022","2022","Washington","53","Unknown or Not Stated","9","No","2","Unknown or Not Stated","9",45
+,"2022","2022","Washington","53","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",163
+,"2022","2022","West Virginia","54","Vaginal","1","Yes","1","None checked","1",267
+,"2022","2022","West Virginia","54","Vaginal","1","No","2","At least one checked","0",116
+,"2022","2022","West Virginia","54","Vaginal","1","No","2","None checked","1",10660
+,"2022","2022","West Virginia","54","Vaginal","1","No","2","Unknown or Not Stated","9",21
+,"2022","2022","West Virginia","54","Vaginal","1","Unknown or Not Stated","9","None checked","1",77
+,"2022","2022","West Virginia","54","Cesarean","2","Yes","1","At least one checked","0",35
+,"2022","2022","West Virginia","54","Cesarean","2","Yes","1","None checked","1",2268
+,"2022","2022","West Virginia","54","Cesarean","2","Yes","1","Unknown or Not Stated","9",14
+,"2022","2022","West Virginia","54","Cesarean","2","No","2","At least one checked","0",37
+,"2022","2022","West Virginia","54","Cesarean","2","No","2","None checked","1",3375
+,"2022","2022","West Virginia","54","Cesarean","2","No","2","Unknown or Not Stated","9",23
+,"2022","2022","West Virginia","54","Cesarean","2","Unknown or Not Stated","9","None checked","1",25
+,"2022","2022","Wisconsin","55","Vaginal","1","Yes","1","At least one checked","0",77
+,"2022","2022","Wisconsin","55","Vaginal","1","Yes","1","None checked","1",1776
+,"2022","2022","Wisconsin","55","Vaginal","1","No","2","At least one checked","0",1050
+,"2022","2022","Wisconsin","55","Vaginal","1","No","2","None checked","1",40409
+,"2022","2022","Wisconsin","55","Vaginal","1","No","2","Unknown or Not Stated","9",25
+,"2022","2022","Wisconsin","55","Vaginal","1","Unknown or Not Stated","9","None checked","1",78
+,"2022","2022","Wisconsin","55","Cesarean","2","Yes","1","At least one checked","0",133
+,"2022","2022","Wisconsin","55","Cesarean","2","Yes","1","None checked","1",6651
+,"2022","2022","Wisconsin","55","Cesarean","2","No","2","At least one checked","0",202
+,"2022","2022","Wisconsin","55","Cesarean","2","No","2","None checked","1",9449
+,"2022","2022","Wisconsin","55","Cesarean","2","No","2","Unknown or Not Stated","9",11
+,"2022","2022","Wisconsin","55","Cesarean","2","Unknown or Not Stated","9","None checked","1",16
+,"2022","2022","Wisconsin","55","Unknown or Not Stated","9","No","2","None checked","1",125
+,"2022","2022","Wyoming","56","Vaginal","1","Yes","1","None checked","1",102
+,"2022","2022","Wyoming","56","Vaginal","1","No","2","At least one checked","0",96
+,"2022","2022","Wyoming","56","Vaginal","1","No","2","None checked","1",4192
+,"2022","2022","Wyoming","56","Cesarean","2","Yes","1","At least one checked","0",16
+,"2022","2022","Wyoming","56","Cesarean","2","Yes","1","None checked","1",660
+,"2022","2022","Wyoming","56","Cesarean","2","No","2","At least one checked","0",17
+,"2022","2022","Wyoming","56","Cesarean","2","No","2","None checked","1",960
+,"2023","2023","Alabama","01","Vaginal","1","Yes","1","At least one checked","0",16
+,"2023","2023","Alabama","01","Vaginal","1","Yes","1","None checked","1",1012
+,"2023","2023","Alabama","01","Vaginal","1","No","2","At least one checked","0",471
+,"2023","2023","Alabama","01","Vaginal","1","No","2","None checked","1",36567
+,"2023","2023","Alabama","01","Cesarean","2","Yes","1","At least one checked","0",97
+,"2023","2023","Alabama","01","Cesarean","2","Yes","1","None checked","1",7549
+,"2023","2023","Alabama","01","Cesarean","2","No","2","At least one checked","0",144
+,"2023","2023","Alabama","01","Cesarean","2","No","2","None checked","1",11993
+,"2023","2023","Alaska","02","Vaginal","1","Yes","1","At least one checked","0",10
+,"2023","2023","Alaska","02","Vaginal","1","Yes","1","None checked","1",277
+,"2023","2023","Alaska","02","Vaginal","1","No","2","At least one checked","0",168
+,"2023","2023","Alaska","02","Vaginal","1","No","2","None checked","1",6282
+,"2023","2023","Alaska","02","Vaginal","1","No","2","Unknown or Not Stated","9",41
+,"2023","2023","Alaska","02","Vaginal","1","Unknown or Not Stated","9","None checked","1",59
+,"2023","2023","Alaska","02","Cesarean","2","Yes","1","At least one checked","0",31
+,"2023","2023","Alaska","02","Cesarean","2","Yes","1","None checked","1",820
+,"2023","2023","Alaska","02","Cesarean","2","No","2","At least one checked","0",56
+,"2023","2023","Alaska","02","Cesarean","2","No","2","None checked","1",1237
+,"2023","2023","Arizona","04","Vaginal","1","Yes","1","At least one checked","0",32
+,"2023","2023","Arizona","04","Vaginal","1","Yes","1","None checked","1",1963
+,"2023","2023","Arizona","04","Vaginal","1","No","2","At least one checked","0",616
+,"2023","2023","Arizona","04","Vaginal","1","No","2","None checked","1",52806
+,"2023","2023","Arizona","04","Cesarean","2","Yes","1","At least one checked","0",142
+,"2023","2023","Arizona","04","Cesarean","2","Yes","1","None checked","1",8874
+,"2023","2023","Arizona","04","Cesarean","2","No","2","At least one checked","0",253
+,"2023","2023","Arizona","04","Cesarean","2","No","2","None checked","1",13406
+,"2023","2023","Arkansas","05","Vaginal","1","Yes","1","At least one checked","0",19
+,"2023","2023","Arkansas","05","Vaginal","1","Yes","1","None checked","1",611
+,"2023","2023","Arkansas","05","Vaginal","1","No","2","At least one checked","0",446
+,"2023","2023","Arkansas","05","Vaginal","1","No","2","None checked","1",22260
+,"2023","2023","Arkansas","05","Cesarean","2","Yes","1","At least one checked","0",93
+,"2023","2023","Arkansas","05","Cesarean","2","Yes","1","None checked","1",4963
+,"2023","2023","Arkansas","05","Cesarean","2","No","2","At least one checked","0",129
+,"2023","2023","Arkansas","05","Cesarean","2","No","2","None checked","1",6733
+,"2023","2023","California","06","Vaginal","1","Yes","1","At least one checked","0",202
+,"2023","2023","California","06","Vaginal","1","Yes","1","None checked","1",8384
+,"2023","2023","California","06","Vaginal","1","Yes","1","Unknown or Not Stated","9",16
+,"2023","2023","California","06","Vaginal","1","No","2","At least one checked","0",3656
+,"2023","2023","California","06","Vaginal","1","No","2","None checked","1",261114
+,"2023","2023","California","06","Vaginal","1","No","2","Unknown or Not Stated","9",457
+,"2023","2023","California","06","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",157
+,"2023","2023","California","06","Cesarean","2","Yes","1","At least one checked","0",443
+,"2023","2023","California","06","Cesarean","2","Yes","1","None checked","1",54191
+,"2023","2023","California","06","Cesarean","2","Yes","1","Unknown or Not Stated","9",17
+,"2023","2023","California","06","Cesarean","2","No","2","At least one checked","0",715
+,"2023","2023","California","06","Cesarean","2","No","2","None checked","1",70704
+,"2023","2023","California","06","Cesarean","2","No","2","Unknown or Not Stated","9",22
+,"2023","2023","California","06","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",12
+,"2023","2023","Colorado","08","Vaginal","1","Yes","1","At least one checked","0",46
+,"2023","2023","Colorado","08","Vaginal","1","Yes","1","None checked","1",1659
+,"2023","2023","Colorado","08","Vaginal","1","Yes","1","Unknown or Not Stated","9",36
+,"2023","2023","Colorado","08","Vaginal","1","No","2","At least one checked","0",619
+,"2023","2023","Colorado","08","Vaginal","1","No","2","None checked","1",41635
+,"2023","2023","Colorado","08","Vaginal","1","No","2","Unknown or Not Stated","9",88
+,"2023","2023","Colorado","08","Vaginal","1","Unknown or Not Stated","9","At least one checked","0",17
+,"2023","2023","Colorado","08","Vaginal","1","Unknown or Not Stated","9","None checked","1",414
+,"2023","2023","Colorado","08","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",80
+,"2023","2023","Colorado","08","Cesarean","2","Yes","1","At least one checked","0",80
+,"2023","2023","Colorado","08","Cesarean","2","Yes","1","None checked","1",5784
+,"2023","2023","Colorado","08","Cesarean","2","Yes","1","Unknown or Not Stated","9",22
+,"2023","2023","Colorado","08","Cesarean","2","No","2","At least one checked","0",159
+,"2023","2023","Colorado","08","Cesarean","2","No","2","None checked","1",10694
+,"2023","2023","Colorado","08","Cesarean","2","No","2","Unknown or Not Stated","9",33
+,"2023","2023","Colorado","08","Cesarean","2","Unknown or Not Stated","9","None checked","1",97
+,"2023","2023","Colorado","08","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",15
+,"2023","2023","Colorado","08","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",14
+,"2023","2023","Connecticut","09","Vaginal","1","Yes","1","At least one checked","0",12
+,"2023","2023","Connecticut","09","Vaginal","1","Yes","1","None checked","1",868
+,"2023","2023","Connecticut","09","Vaginal","1","No","2","At least one checked","0",316
+,"2023","2023","Connecticut","09","Vaginal","1","No","2","None checked","1",21228
+,"2023","2023","Connecticut","09","Vaginal","1","Unknown or Not Stated","9","None checked","1",20
+,"2023","2023","Connecticut","09","Cesarean","2","Yes","1","At least one checked","0",54
+,"2023","2023","Connecticut","09","Cesarean","2","Yes","1","None checked","1",4791
+,"2023","2023","Connecticut","09","Cesarean","2","No","2","At least one checked","0",118
+,"2023","2023","Connecticut","09","Cesarean","2","No","2","None checked","1",7132
+,"2023","2023","Delaware","10","Vaginal","1","Yes","1","None checked","1",198
+,"2023","2023","Delaware","10","Vaginal","1","No","2","At least one checked","0",240
+,"2023","2023","Delaware","10","Vaginal","1","No","2","None checked","1",6560
+,"2023","2023","Delaware","10","Vaginal","1","Unknown or Not Stated","9","None checked","1",111
+,"2023","2023","Delaware","10","Cesarean","2","Yes","1","At least one checked","0",79
+,"2023","2023","Delaware","10","Cesarean","2","Yes","1","None checked","1",1204
+,"2023","2023","Delaware","10","Cesarean","2","No","2","At least one checked","0",172
+,"2023","2023","Delaware","10","Cesarean","2","No","2","None checked","1",1788
+,"2023","2023","Delaware","10","Cesarean","2","Unknown or Not Stated","9","None checked","1",31
+,"2023","2023","District of Columbia","11","Vaginal","1","Yes","1","None checked","1",199
+,"2023","2023","District of Columbia","11","Vaginal","1","No","2","At least one checked","0",199
+,"2023","2023","District of Columbia","11","Vaginal","1","No","2","None checked","1",4788
+,"2023","2023","District of Columbia","11","Cesarean","2","Yes","1","At least one checked","0",16
+,"2023","2023","District of Columbia","11","Cesarean","2","Yes","1","None checked","1",778
+,"2023","2023","District of Columbia","11","Cesarean","2","No","2","At least one checked","0",71
+,"2023","2023","District of Columbia","11","Cesarean","2","No","2","None checked","1",1830
+,"2023","2023","Florida","12","Vaginal","1","Yes","1","At least one checked","0",38
+,"2023","2023","Florida","12","Vaginal","1","Yes","1","None checked","1",3749
+,"2023","2023","Florida","12","Vaginal","1","No","2","At least one checked","0",1159
+,"2023","2023","Florida","12","Vaginal","1","No","2","None checked","1",135046
+,"2023","2023","Florida","12","Vaginal","1","No","2","Unknown or Not Stated","9",459
+,"2023","2023","Florida","12","Vaginal","1","Unknown or Not Stated","9","None checked","1",233
+,"2023","2023","Florida","12","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",403
+,"2023","2023","Florida","12","Cesarean","2","Yes","1","At least one checked","0",208
+,"2023","2023","Florida","12","Cesarean","2","Yes","1","None checked","1",28380
+,"2023","2023","Florida","12","Cesarean","2","Yes","1","Unknown or Not Stated","9",223
+,"2023","2023","Florida","12","Cesarean","2","No","2","At least one checked","0",344
+,"2023","2023","Florida","12","Cesarean","2","No","2","None checked","1",50590
+,"2023","2023","Florida","12","Cesarean","2","No","2","Unknown or Not Stated","9",260
+,"2023","2023","Florida","12","Cesarean","2","Unknown or Not Stated","9","None checked","1",43
+,"2023","2023","Florida","12","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",88
+,"2023","2023","Florida","12","Unknown or Not Stated","9","Yes","1","None checked","1",18
+,"2023","2023","Florida","12","Unknown or Not Stated","9","No","2","None checked","1",143
+,"2023","2023","Florida","12","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",15
+,"2023","2023","Georgia","13","Vaginal","1","Yes","1","At least one checked","0",26
+,"2023","2023","Georgia","13","Vaginal","1","Yes","1","None checked","1",1576
+,"2023","2023","Georgia","13","Vaginal","1","No","2","At least one checked","0",1088
+,"2023","2023","Georgia","13","Vaginal","1","No","2","None checked","1",77455
+,"2023","2023","Georgia","13","Vaginal","1","No","2","Unknown or Not Stated","9",42
+,"2023","2023","Georgia","13","Vaginal","1","Unknown or Not Stated","9","None checked","1",109
+,"2023","2023","Georgia","13","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",21
+,"2023","2023","Georgia","13","Cesarean","2","Yes","1","At least one checked","0",250
+,"2023","2023","Georgia","13","Cesarean","2","Yes","1","None checked","1",14971
+,"2023","2023","Georgia","13","Cesarean","2","No","2","At least one checked","0",498
+,"2023","2023","Georgia","13","Cesarean","2","No","2","None checked","1",28960
+,"2023","2023","Georgia","13","Cesarean","2","No","2","Unknown or Not Stated","9",18
+,"2023","2023","Georgia","13","Cesarean","2","Unknown or Not Stated","9","None checked","1",36
+,"2023","2023","Georgia","13","Unknown or Not Stated","9","No","2","None checked","1",42
+,"2023","2023","Hawaii","15","Vaginal","1","Yes","1","None checked","1",381
+,"2023","2023","Hawaii","15","Vaginal","1","No","2","At least one checked","0",126
+,"2023","2023","Hawaii","15","Vaginal","1","No","2","None checked","1",10237
+,"2023","2023","Hawaii","15","Cesarean","2","Yes","1","At least one checked","0",23
+,"2023","2023","Hawaii","15","Cesarean","2","Yes","1","None checked","1",1441
+,"2023","2023","Hawaii","15","Cesarean","2","No","2","At least one checked","0",36
+,"2023","2023","Hawaii","15","Cesarean","2","No","2","None checked","1",2556
+,"2023","2023","Idaho","16","Vaginal","1","Yes","1","At least one checked","0",25
+,"2023","2023","Idaho","16","Vaginal","1","Yes","1","None checked","1",620
+,"2023","2023","Idaho","16","Vaginal","1","No","2","At least one checked","0",237
+,"2023","2023","Idaho","16","Vaginal","1","No","2","None checked","1",16029
+,"2023","2023","Idaho","16","Cesarean","2","Yes","1","At least one checked","0",37
+,"2023","2023","Idaho","16","Cesarean","2","Yes","1","None checked","1",2069
+,"2023","2023","Idaho","16","Cesarean","2","No","2","At least one checked","0",74
+,"2023","2023","Idaho","16","Cesarean","2","No","2","None checked","1",3286
+,"2023","2023","Illinois","17","Vaginal","1","Yes","1","At least one checked","0",101
+,"2023","2023","Illinois","17","Vaginal","1","Yes","1","None checked","1",3344
+,"2023","2023","Illinois","17","Vaginal","1","No","2","At least one checked","0",1428
+,"2023","2023","Illinois","17","Vaginal","1","No","2","None checked","1",81070
+,"2023","2023","Illinois","17","Vaginal","1","No","2","Unknown or Not Stated","9",34
+,"2023","2023","Illinois","17","Vaginal","1","Unknown or Not Stated","9","None checked","1",65
+,"2023","2023","Illinois","17","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",36
+,"2023","2023","Illinois","17","Cesarean","2","Yes","1","At least one checked","0",326
+,"2023","2023","Illinois","17","Cesarean","2","Yes","1","None checked","1",15675
+,"2023","2023","Illinois","17","Cesarean","2","No","2","At least one checked","0",603
+,"2023","2023","Illinois","17","Cesarean","2","No","2","None checked","1",22067
+,"2023","2023","Illinois","17","Cesarean","2","No","2","Unknown or Not Stated","9",17
+,"2023","2023","Illinois","17","Cesarean","2","Unknown or Not Stated","9","None checked","1",13
+,"2023","2023","Illinois","17","Unknown or Not Stated","9","No","2","None checked","1",21
+,"2023","2023","Indiana","18","Vaginal","1","Yes","1","At least one checked","0",48
+,"2023","2023","Indiana","18","Vaginal","1","Yes","1","None checked","1",1766
+,"2023","2023","Indiana","18","Vaginal","1","No","2","At least one checked","0",756
+,"2023","2023","Indiana","18","Vaginal","1","No","2","None checked","1",51700
+,"2023","2023","Indiana","18","Vaginal","1","No","2","Unknown or Not Stated","9",55
+,"2023","2023","Indiana","18","Vaginal","1","Unknown or Not Stated","9","None checked","1",344
+,"2023","2023","Indiana","18","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",30
+,"2023","2023","Indiana","18","Cesarean","2","Yes","1","At least one checked","0",102
+,"2023","2023","Indiana","18","Cesarean","2","Yes","1","None checked","1",9353
+,"2023","2023","Indiana","18","Cesarean","2","Yes","1","Unknown or Not Stated","9",21
+,"2023","2023","Indiana","18","Cesarean","2","No","2","At least one checked","0",238
+,"2023","2023","Indiana","18","Cesarean","2","No","2","None checked","1",14436
+,"2023","2023","Indiana","18","Cesarean","2","No","2","Unknown or Not Stated","9",18
+,"2023","2023","Indiana","18","Cesarean","2","Unknown or Not Stated","9","None checked","1",91
+,"2023","2023","Indiana","18","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",16
+,"2023","2023","Indiana","18","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",10
+,"2023","2023","Iowa","19","Vaginal","1","Yes","1","At least one checked","0",32
+,"2023","2023","Iowa","19","Vaginal","1","Yes","1","None checked","1",864
+,"2023","2023","Iowa","19","Vaginal","1","No","2","At least one checked","0",534
+,"2023","2023","Iowa","19","Vaginal","1","No","2","None checked","1",23701
+,"2023","2023","Iowa","19","Cesarean","2","Yes","1","At least one checked","0",117
+,"2023","2023","Iowa","19","Cesarean","2","Yes","1","None checked","1",4194
+,"2023","2023","Iowa","19","Cesarean","2","No","2","At least one checked","0",181
+,"2023","2023","Iowa","19","Cesarean","2","No","2","None checked","1",6404
+,"2023","2023","Kansas","20","Vaginal","1","Yes","1","At least one checked","0",16
+,"2023","2023","Kansas","20","Vaginal","1","Yes","1","None checked","1",911
+,"2023","2023","Kansas","20","Vaginal","1","No","2","At least one checked","0",333
+,"2023","2023","Kansas","20","Vaginal","1","No","2","None checked","1",22482
+,"2023","2023","Kansas","20","Cesarean","2","Yes","1","At least one checked","0",49
+,"2023","2023","Kansas","20","Cesarean","2","Yes","1","None checked","1",4336
+,"2023","2023","Kansas","20","Cesarean","2","No","2","At least one checked","0",71
+,"2023","2023","Kansas","20","Cesarean","2","No","2","None checked","1",5864
+,"2023","2023","Kentucky","21","Vaginal","1","Yes","1","At least one checked","0",18
+,"2023","2023","Kentucky","21","Vaginal","1","Yes","1","None checked","1",1041
+,"2023","2023","Kentucky","21","Vaginal","1","No","2","At least one checked","0",483
+,"2023","2023","Kentucky","21","Vaginal","1","No","2","None checked","1",32491
+,"2023","2023","Kentucky","21","Vaginal","1","No","2","Unknown or Not Stated","9",33
+,"2023","2023","Kentucky","21","Vaginal","1","Unknown or Not Stated","9","None checked","1",50
+,"2023","2023","Kentucky","21","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",16
+,"2023","2023","Kentucky","21","Cesarean","2","Yes","1","At least one checked","0",88
+,"2023","2023","Kentucky","21","Cesarean","2","Yes","1","None checked","1",7746
+,"2023","2023","Kentucky","21","Cesarean","2","No","2","At least one checked","0",135
+,"2023","2023","Kentucky","21","Cesarean","2","No","2","None checked","1",9819
+,"2023","2023","Kentucky","21","Cesarean","2","Unknown or Not Stated","9","None checked","1",17
+,"2023","2023","Kentucky","21","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",12
+,"2023","2023","Louisiana","22","Vaginal","1","Yes","1","At least one checked","0",15
+,"2023","2023","Louisiana","22","Vaginal","1","Yes","1","None checked","1",1038
+,"2023","2023","Louisiana","22","Vaginal","1","No","2","At least one checked","0",337
+,"2023","2023","Louisiana","22","Vaginal","1","No","2","None checked","1",33734
+,"2023","2023","Louisiana","22","Cesarean","2","Yes","1","At least one checked","0",114
+,"2023","2023","Louisiana","22","Cesarean","2","Yes","1","None checked","1",8143
+,"2023","2023","Louisiana","22","Cesarean","2","No","2","At least one checked","0",164
+,"2023","2023","Louisiana","22","Cesarean","2","No","2","None checked","1",11382
+,"2023","2023","Maine","23","Vaginal","1","Yes","1","At least one checked","0",15
+,"2023","2023","Maine","23","Vaginal","1","Yes","1","None checked","1",262
+,"2023","2023","Maine","23","Vaginal","1","No","2","At least one checked","0",218
+,"2023","2023","Maine","23","Vaginal","1","No","2","None checked","1",7503
+,"2023","2023","Maine","23","Vaginal","1","No","2","Unknown or Not Stated","9",10
+,"2023","2023","Maine","23","Cesarean","2","Yes","1","At least one checked","0",17
+,"2023","2023","Maine","23","Cesarean","2","Yes","1","None checked","1",1310
+,"2023","2023","Maine","23","Cesarean","2","No","2","At least one checked","0",32
+,"2023","2023","Maine","23","Cesarean","2","No","2","None checked","1",2241
+,"2023","2023","Maryland","24","Vaginal","1","Yes","1","At least one checked","0",57
+,"2023","2023","Maryland","24","Vaginal","1","Yes","1","None checked","1",1739
+,"2023","2023","Maryland","24","Vaginal","1","No","2","At least one checked","0",990
+,"2023","2023","Maryland","24","Vaginal","1","No","2","None checked","1",39835
+,"2023","2023","Maryland","24","Vaginal","1","No","2","Unknown or Not Stated","9",21
+,"2023","2023","Maryland","24","Cesarean","2","Yes","1","At least one checked","0",257
+,"2023","2023","Maryland","24","Cesarean","2","Yes","1","None checked","1",9167
+,"2023","2023","Maryland","24","Cesarean","2","No","2","At least one checked","0",484
+,"2023","2023","Maryland","24","Cesarean","2","No","2","None checked","1",13000
+,"2023","2023","Maryland","24","Unknown or Not Stated","9","No","2","None checked","1",12
+,"2023","2023","Massachusetts","25","Vaginal","1","Yes","1","At least one checked","0",67
+,"2023","2023","Massachusetts","25","Vaginal","1","Yes","1","None checked","1",1647
+,"2023","2023","Massachusetts","25","Vaginal","1","No","2","At least one checked","0",931
+,"2023","2023","Massachusetts","25","Vaginal","1","No","2","None checked","1",41856
+,"2023","2023","Massachusetts","25","Cesarean","2","Yes","1","At least one checked","0",121
+,"2023","2023","Massachusetts","25","Cesarean","2","Yes","1","None checked","1",9057
+,"2023","2023","Massachusetts","25","Cesarean","2","No","2","At least one checked","0",234
+,"2023","2023","Massachusetts","25","Cesarean","2","No","2","None checked","1",12965
+,"2023","2023","Massachusetts","25","Unknown or Not Stated","9","No","2","Unknown or Not Stated","9",18
+,"2023","2023","Massachusetts","25","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",194
+,"2023","2023","Michigan","26","Vaginal","1","Yes","1","At least one checked","0",67
+,"2023","2023","Michigan","26","Vaginal","1","Yes","1","None checked","1",2373
+,"2023","2023","Michigan","26","Vaginal","1","Yes","1","Unknown or Not Stated","9",33
+,"2023","2023","Michigan","26","Vaginal","1","No","2","At least one checked","0",989
+,"2023","2023","Michigan","26","Vaginal","1","No","2","None checked","1",61622
+,"2023","2023","Michigan","26","Vaginal","1","No","2","Unknown or Not Stated","9",817
+,"2023","2023","Michigan","26","Vaginal","1","Unknown or Not Stated","9","None checked","1",209
+,"2023","2023","Michigan","26","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",17
+,"2023","2023","Michigan","26","Cesarean","2","Yes","1","At least one checked","0",167
+,"2023","2023","Michigan","26","Cesarean","2","Yes","1","None checked","1",12343
+,"2023","2023","Michigan","26","Cesarean","2","Yes","1","Unknown or Not Stated","9",151
+,"2023","2023","Michigan","26","Cesarean","2","No","2","At least one checked","0",378
+,"2023","2023","Michigan","26","Cesarean","2","No","2","None checked","1",19586
+,"2023","2023","Michigan","26","Cesarean","2","No","2","Unknown or Not Stated","9",234
+,"2023","2023","Michigan","26","Cesarean","2","Unknown or Not Stated","9","None checked","1",57
+,"2023","2023","Michigan","26","Unknown or Not Stated","9","No","2","None checked","1",19
+,"2023","2023","Michigan","26","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",35
+,"2023","2023","Minnesota","27","Vaginal","1","Yes","1","At least one checked","0",59
+,"2023","2023","Minnesota","27","Vaginal","1","Yes","1","None checked","1",1991
+,"2023","2023","Minnesota","27","Vaginal","1","No","2","At least one checked","0",934
+,"2023","2023","Minnesota","27","Vaginal","1","No","2","None checked","1",39977
+,"2023","2023","Minnesota","27","Vaginal","1","No","2","Unknown or Not Stated","9",33
+,"2023","2023","Minnesota","27","Vaginal","1","Unknown or Not Stated","9","None checked","1",26
+,"2023","2023","Minnesota","27","Cesarean","2","Yes","1","At least one checked","0",110
+,"2023","2023","Minnesota","27","Cesarean","2","Yes","1","None checked","1",7244
+,"2023","2023","Minnesota","27","Cesarean","2","No","2","At least one checked","0",218
+,"2023","2023","Minnesota","27","Cesarean","2","No","2","None checked","1",11043
+,"2023","2023","Minnesota","27","Unknown or Not Stated","9","No","2","None checked","1",40
+,"2023","2023","Minnesota","27","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",16
+,"2023","2023","Mississippi","28","Vaginal","1","Yes","1","At least one checked","0",14
+,"2023","2023","Mississippi","28","Vaginal","1","Yes","1","None checked","1",522
+,"2023","2023","Mississippi","28","Vaginal","1","No","2","At least one checked","0",199
+,"2023","2023","Mississippi","28","Vaginal","1","No","2","None checked","1",20646
+,"2023","2023","Mississippi","28","Cesarean","2","Yes","1","At least one checked","0",74
+,"2023","2023","Mississippi","28","Cesarean","2","Yes","1","None checked","1",5740
+,"2023","2023","Mississippi","28","Cesarean","2","No","2","At least one checked","0",101
+,"2023","2023","Mississippi","28","Cesarean","2","No","2","None checked","1",7157
+,"2023","2023","Missouri","29","Vaginal","1","Yes","1","At least one checked","0",30
+,"2023","2023","Missouri","29","Vaginal","1","Yes","1","None checked","1",1632
+,"2023","2023","Missouri","29","Vaginal","1","No","2","At least one checked","0",669
+,"2023","2023","Missouri","29","Vaginal","1","No","2","None checked","1",44473
+,"2023","2023","Missouri","29","Cesarean","2","Yes","1","At least one checked","0",90
+,"2023","2023","Missouri","29","Cesarean","2","Yes","1","None checked","1",7875
+,"2023","2023","Missouri","29","Cesarean","2","No","2","At least one checked","0",174
+,"2023","2023","Missouri","29","Cesarean","2","No","2","None checked","1",12125
+,"2023","2023","Missouri","29","Unknown or Not Stated","9","No","2","None checked","1",50
+,"2023","2023","Montana","30","Vaginal","1","Yes","1","None checked","1",287
+,"2023","2023","Montana","30","Vaginal","1","No","2","At least one checked","0",150
+,"2023","2023","Montana","30","Vaginal","1","No","2","None checked","1",7750
+,"2023","2023","Montana","30","Cesarean","2","Yes","1","At least one checked","0",16
+,"2023","2023","Montana","30","Cesarean","2","Yes","1","None checked","1",1094
+,"2023","2023","Montana","30","Cesarean","2","No","2","At least one checked","0",46
+,"2023","2023","Montana","30","Cesarean","2","No","2","None checked","1",1724
+,"2023","2023","Nebraska","31","Vaginal","1","Yes","1","At least one checked","0",17
+,"2023","2023","Nebraska","31","Vaginal","1","Yes","1","None checked","1",715
+,"2023","2023","Nebraska","31","Vaginal","1","No","2","At least one checked","0",342
+,"2023","2023","Nebraska","31","Vaginal","1","No","2","None checked","1",15900
+,"2023","2023","Nebraska","31","Vaginal","1","No","2","Unknown or Not Stated","9",21
+,"2023","2023","Nebraska","31","Vaginal","1","Unknown or Not Stated","9","None checked","1",30
+,"2023","2023","Nebraska","31","Cesarean","2","Yes","1","At least one checked","0",46
+,"2023","2023","Nebraska","31","Cesarean","2","Yes","1","None checked","1",3091
+,"2023","2023","Nebraska","31","Cesarean","2","No","2","At least one checked","0",65
+,"2023","2023","Nebraska","31","Cesarean","2","No","2","None checked","1",3872
+,"2023","2023","Nevada","32","Vaginal","1","Yes","1","At least one checked","0",13
+,"2023","2023","Nevada","32","Vaginal","1","Yes","1","None checked","1",718
+,"2023","2023","Nevada","32","Vaginal","1","No","2","At least one checked","0",249
+,"2023","2023","Nevada","32","Vaginal","1","No","2","None checked","1",20154
+,"2023","2023","Nevada","32","Cesarean","2","Yes","1","At least one checked","0",54
+,"2023","2023","Nevada","32","Cesarean","2","Yes","1","None checked","1",3836
+,"2023","2023","Nevada","32","Cesarean","2","No","2","At least one checked","0",89
+,"2023","2023","Nevada","32","Cesarean","2","No","2","None checked","1",6677
+,"2023","2023","New Hampshire","33","Vaginal","1","Yes","1","At least one checked","0",16
+,"2023","2023","New Hampshire","33","Vaginal","1","Yes","1","None checked","1",243
+,"2023","2023","New Hampshire","33","Vaginal","1","No","2","At least one checked","0",267
+,"2023","2023","New Hampshire","33","Vaginal","1","No","2","None checked","1",7432
+,"2023","2023","New Hampshire","33","Vaginal","1","No","2","Unknown or Not Stated","9",22
+,"2023","2023","New Hampshire","33","Vaginal","1","Unknown or Not Stated","9","None checked","1",16
+,"2023","2023","New Hampshire","33","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",11
+,"2023","2023","New Hampshire","33","Cesarean","2","Yes","1","At least one checked","0",42
+,"2023","2023","New Hampshire","33","Cesarean","2","Yes","1","None checked","1",1478
+,"2023","2023","New Hampshire","33","Cesarean","2","No","2","At least one checked","0",78
+,"2023","2023","New Hampshire","33","Cesarean","2","No","2","None checked","1",2309
+,"2023","2023","New Hampshire","33","Cesarean","2","No","2","Unknown or Not Stated","9",10
+,"2023","2023","New Jersey","34","Vaginal","1","Yes","1","At least one checked","0",60
+,"2023","2023","New Jersey","34","Vaginal","1","Yes","1","None checked","1",2437
+,"2023","2023","New Jersey","34","Vaginal","1","No","2","At least one checked","0",1255
+,"2023","2023","New Jersey","34","Vaginal","1","No","2","None checked","1",63694
+,"2023","2023","New Jersey","34","Vaginal","1","No","2","Unknown or Not Stated","9",114
+,"2023","2023","New Jersey","34","Cesarean","2","Yes","1","At least one checked","0",238
+,"2023","2023","New Jersey","34","Cesarean","2","Yes","1","None checked","1",13957
+,"2023","2023","New Jersey","34","Cesarean","2","Yes","1","Unknown or Not Stated","9",19
+,"2023","2023","New Jersey","34","Cesarean","2","No","2","At least one checked","0",416
+,"2023","2023","New Jersey","34","Cesarean","2","No","2","None checked","1",18760
+,"2023","2023","New Jersey","34","Cesarean","2","No","2","Unknown or Not Stated","9",33
+,"2023","2023","New Mexico","35","Vaginal","1","Yes","1","None checked","1",539
+,"2023","2023","New Mexico","35","Vaginal","1","No","2","At least one checked","0",186
+,"2023","2023","New Mexico","35","Vaginal","1","No","2","None checked","1",14271
+,"2023","2023","New Mexico","35","Cesarean","2","Yes","1","At least one checked","0",20
+,"2023","2023","New Mexico","35","Cesarean","2","Yes","1","None checked","1",2316
+,"2023","2023","New Mexico","35","Cesarean","2","No","2","At least one checked","0",57
+,"2023","2023","New Mexico","35","Cesarean","2","No","2","None checked","1",3546
+,"2023","2023","New York","36","Vaginal","1","Yes","1","At least one checked","0",148
+,"2023","2023","New York","36","Vaginal","1","Yes","1","None checked","1",5019
+,"2023","2023","New York","36","Vaginal","1","No","2","At least one checked","0",2162
+,"2023","2023","New York","36","Vaginal","1","No","2","None checked","1",126614
+,"2023","2023","New York","36","Vaginal","1","No","2","Unknown or Not Stated","9",310
+,"2023","2023","New York","36","Vaginal","1","Unknown or Not Stated","9","None checked","1",37
+,"2023","2023","New York","36","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",15
+,"2023","2023","New York","36","Cesarean","2","Yes","1","At least one checked","0",563
+,"2023","2023","New York","36","Cesarean","2","Yes","1","None checked","1",28673
+,"2023","2023","New York","36","Cesarean","2","Yes","1","Unknown or Not Stated","9",60
+,"2023","2023","New York","36","Cesarean","2","No","2","At least one checked","0",854
+,"2023","2023","New York","36","Cesarean","2","No","2","None checked","1",38587
+,"2023","2023","New York","36","Cesarean","2","No","2","Unknown or Not Stated","9",93
+,"2023","2023","New York","36","Unknown or Not Stated","9","No","2","None checked","1",88
+,"2023","2023","New York","36","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",365
+,"2023","2023","North Carolina","37","Vaginal","1","Yes","1","At least one checked","0",65
+,"2023","2023","North Carolina","37","Vaginal","1","Yes","1","None checked","1",3054
+,"2023","2023","North Carolina","37","Vaginal","1","No","2","At least one checked","0",1286
+,"2023","2023","North Carolina","37","Vaginal","1","No","2","None checked","1",78420
+,"2023","2023","North Carolina","37","Vaginal","1","Unknown or Not Stated","9","None checked","1",17
+,"2023","2023","North Carolina","37","Cesarean","2","Yes","1","At least one checked","0",205
+,"2023","2023","North Carolina","37","Cesarean","2","Yes","1","None checked","1",13657
+,"2023","2023","North Carolina","37","Cesarean","2","No","2","At least one checked","0",396
+,"2023","2023","North Carolina","37","Cesarean","2","No","2","None checked","1",22505
+,"2023","2023","North Carolina","37","Unknown or Not Stated","9","Yes","1","None checked","1",64
+,"2023","2023","North Carolina","37","Unknown or Not Stated","9","No","2","None checked","1",379
+,"2023","2023","North Dakota","38","Vaginal","1","Yes","1","None checked","1",270
+,"2023","2023","North Dakota","38","Vaginal","1","No","2","At least one checked","0",145
+,"2023","2023","North Dakota","38","Vaginal","1","No","2","None checked","1",6706
+,"2023","2023","North Dakota","38","Cesarean","2","Yes","1","At least one checked","0",34
+,"2023","2023","North Dakota","38","Cesarean","2","Yes","1","None checked","1",1102
+,"2023","2023","North Dakota","38","Cesarean","2","No","2","At least one checked","0",38
+,"2023","2023","North Dakota","38","Cesarean","2","No","2","None checked","1",1346
+,"2023","2023","Ohio","39","Vaginal","1","Yes","1","At least one checked","0",124
+,"2023","2023","Ohio","39","Vaginal","1","Yes","1","None checked","1",3374
+,"2023","2023","Ohio","39","Vaginal","1","No","2","At least one checked","0",1762
+,"2023","2023","Ohio","39","Vaginal","1","No","2","None checked","1",81674
+,"2023","2023","Ohio","39","Vaginal","1","Unknown or Not Stated","9","None checked","1",10
+,"2023","2023","Ohio","39","Cesarean","2","Yes","1","At least one checked","0",326
+,"2023","2023","Ohio","39","Cesarean","2","Yes","1","None checked","1",17042
+,"2023","2023","Ohio","39","Cesarean","2","No","2","At least one checked","0",443
+,"2023","2023","Ohio","39","Cesarean","2","No","2","None checked","1",22042
+,"2023","2023","Ohio","39","Unknown or Not Stated","9","No","2","None checked","1",73
+,"2023","2023","Oklahoma","40","Vaginal","1","Yes","1","None checked","1",724
+,"2023","2023","Oklahoma","40","Vaginal","1","No","2","At least one checked","0",456
+,"2023","2023","Oklahoma","40","Vaginal","1","No","2","None checked","1",30843
+,"2023","2023","Oklahoma","40","Vaginal","1","No","2","Unknown or Not Stated","9",11
+,"2023","2023","Oklahoma","40","Cesarean","2","Yes","1","At least one checked","0",115
+,"2023","2023","Oklahoma","40","Cesarean","2","Yes","1","None checked","1",6428
+,"2023","2023","Oklahoma","40","Cesarean","2","No","2","At least one checked","0",189
+,"2023","2023","Oklahoma","40","Cesarean","2","No","2","None checked","1",9108
+,"2023","2023","Oregon","41","Vaginal","1","Yes","1","At least one checked","0",38
+,"2023","2023","Oregon","41","Vaginal","1","Yes","1","None checked","1",997
+,"2023","2023","Oregon","41","Vaginal","1","No","2","At least one checked","0",518
+,"2023","2023","Oregon","41","Vaginal","1","No","2","None checked","1",25483
+,"2023","2023","Oregon","41","Vaginal","1","No","2","Unknown or Not Stated","9",191
+,"2023","2023","Oregon","41","Cesarean","2","Yes","1","At least one checked","0",48
+,"2023","2023","Oregon","41","Cesarean","2","Yes","1","None checked","1",3982
+,"2023","2023","Oregon","41","Cesarean","2","Yes","1","Unknown or Not Stated","9",17
+,"2023","2023","Oregon","41","Cesarean","2","No","2","At least one checked","0",125
+,"2023","2023","Oregon","41","Cesarean","2","No","2","None checked","1",6857
+,"2023","2023","Oregon","41","Cesarean","2","No","2","Unknown or Not Stated","9",32
+,"2023","2023","Pennsylvania","42","Vaginal","1","Yes","1","At least one checked","0",78
+,"2023","2023","Pennsylvania","42","Vaginal","1","Yes","1","None checked","1",3590
+,"2023","2023","Pennsylvania","42","Vaginal","1","Yes","1","Unknown or Not Stated","9",10
+,"2023","2023","Pennsylvania","42","Vaginal","1","No","2","At least one checked","0",1222
+,"2023","2023","Pennsylvania","42","Vaginal","1","No","2","None checked","1",81703
+,"2023","2023","Pennsylvania","42","Vaginal","1","No","2","Unknown or Not Stated","9",211
+,"2023","2023","Pennsylvania","42","Vaginal","1","Unknown or Not Stated","9","None checked","1",315
+,"2023","2023","Pennsylvania","42","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",22
+,"2023","2023","Pennsylvania","42","Cesarean","2","Yes","1","At least one checked","0",195
+,"2023","2023","Pennsylvania","42","Cesarean","2","Yes","1","None checked","1",16170
+,"2023","2023","Pennsylvania","42","Cesarean","2","Yes","1","Unknown or Not Stated","9",67
+,"2023","2023","Pennsylvania","42","Cesarean","2","No","2","At least one checked","0",325
+,"2023","2023","Pennsylvania","42","Cesarean","2","No","2","None checked","1",22766
+,"2023","2023","Pennsylvania","42","Cesarean","2","No","2","Unknown or Not Stated","9",80
+,"2023","2023","Pennsylvania","42","Cesarean","2","Unknown or Not Stated","9","None checked","1",105
+,"2023","2023","Pennsylvania","42","Unknown or Not Stated","9","No","2","None checked","1",27
+,"2023","2023","Pennsylvania","42","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",43
+,"2023","2023","Rhode Island","44","Vaginal","1","Yes","1","None checked","1",268
+,"2023","2023","Rhode Island","44","Vaginal","1","No","2","At least one checked","0",111
+,"2023","2023","Rhode Island","44","Vaginal","1","No","2","None checked","1",6143
+,"2023","2023","Rhode Island","44","Cesarean","2","Yes","1","At least one checked","0",39
+,"2023","2023","Rhode Island","44","Cesarean","2","Yes","1","None checked","1",1231
+,"2023","2023","Rhode Island","44","Cesarean","2","No","2","At least one checked","0",47
+,"2023","2023","Rhode Island","44","Cesarean","2","No","2","None checked","1",1938
+,"2023","2023","Rhode Island","44","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",11
+,"2023","2023","South Carolina","45","Vaginal","1","Yes","1","At least one checked","0",30
+,"2023","2023","South Carolina","45","Vaginal","1","Yes","1","None checked","1",1195
+,"2023","2023","South Carolina","45","Vaginal","1","No","2","At least one checked","0",482
+,"2023","2023","South Carolina","45","Vaginal","1","No","2","None checked","1",37082
+,"2023","2023","South Carolina","45","Vaginal","1","No","2","Unknown or Not Stated","9",64
+,"2023","2023","South Carolina","45","Vaginal","1","Unknown or Not Stated","9","None checked","1",28
+,"2023","2023","South Carolina","45","Cesarean","2","Yes","1","At least one checked","0",68
+,"2023","2023","South Carolina","45","Cesarean","2","Yes","1","None checked","1",7366
+,"2023","2023","South Carolina","45","Cesarean","2","Yes","1","Unknown or Not Stated","9",13
+,"2023","2023","South Carolina","45","Cesarean","2","No","2","At least one checked","0",144
+,"2023","2023","South Carolina","45","Cesarean","2","No","2","None checked","1",11206
+,"2023","2023","South Carolina","45","Cesarean","2","No","2","Unknown or Not Stated","9",19
+,"2023","2023","South Carolina","45","Unknown or Not Stated","9","No","2","None checked","1",10
+,"2023","2023","South Dakota","46","Vaginal","1","Yes","1","At least one checked","0",12
+,"2023","2023","South Dakota","46","Vaginal","1","Yes","1","None checked","1",333
+,"2023","2023","South Dakota","46","Vaginal","1","No","2","At least one checked","0",151
+,"2023","2023","South Dakota","46","Vaginal","1","No","2","None checked","1",7965
+,"2023","2023","South Dakota","46","Cesarean","2","Yes","1","At least one checked","0",11
+,"2023","2023","South Dakota","46","Cesarean","2","Yes","1","None checked","1",1139
+,"2023","2023","South Dakota","46","Cesarean","2","No","2","At least one checked","0",25
+,"2023","2023","South Dakota","46","Cesarean","2","No","2","None checked","1",1550
+,"2023","2023","Tennessee","47","Vaginal","1","Yes","1","At least one checked","0",35
+,"2023","2023","Tennessee","47","Vaginal","1","Yes","1","None checked","1",1813
+,"2023","2023","Tennessee","47","Vaginal","1","No","2","At least one checked","0",760
+,"2023","2023","Tennessee","47","Vaginal","1","No","2","None checked","1",53626
+,"2023","2023","Tennessee","47","Cesarean","2","Yes","1","At least one checked","0",106
+,"2023","2023","Tennessee","47","Cesarean","2","Yes","1","None checked","1",10635
+,"2023","2023","Tennessee","47","Cesarean","2","No","2","At least one checked","0",230
+,"2023","2023","Tennessee","47","Cesarean","2","No","2","None checked","1",15805
+,"2023","2023","Texas","48","Vaginal","1","Yes","1","At least one checked","0",107
+,"2023","2023","Texas","48","Vaginal","1","Yes","1","None checked","1",6310
+,"2023","2023","Texas","48","Vaginal","1","No","2","At least one checked","0",2047
+,"2023","2023","Texas","48","Vaginal","1","No","2","None checked","1",244957
+,"2023","2023","Texas","48","Vaginal","1","Unknown or Not Stated","9","None checked","1",462
+,"2023","2023","Texas","48","Cesarean","2","Yes","1","At least one checked","0",468
+,"2023","2023","Texas","48","Cesarean","2","Yes","1","None checked","1",53501
+,"2023","2023","Texas","48","Cesarean","2","No","2","At least one checked","0",685
+,"2023","2023","Texas","48","Cesarean","2","No","2","None checked","1",79171
+,"2023","2023","Texas","48","Cesarean","2","Unknown or Not Stated","9","None checked","1",86
+,"2023","2023","Texas","48","Unknown or Not Stated","9","No","2","None checked","1",80
+,"2023","2023","Texas","48","Unknown or Not Stated","9","Unknown or Not Stated","9","None checked","1",41
+,"2023","2023","Utah","49","Vaginal","1","Yes","1","At least one checked","0",55
+,"2023","2023","Utah","49","Vaginal","1","Yes","1","None checked","1",1614
+,"2023","2023","Utah","49","Vaginal","1","No","2","At least one checked","0",648
+,"2023","2023","Utah","49","Vaginal","1","No","2","None checked","1",31753
+,"2023","2023","Utah","49","Cesarean","2","Yes","1","At least one checked","0",123
+,"2023","2023","Utah","49","Cesarean","2","Yes","1","None checked","1",4473
+,"2023","2023","Utah","49","Cesarean","2","No","2","At least one checked","0",212
+,"2023","2023","Utah","49","Cesarean","2","No","2","None checked","1",6118
+,"2023","2023","Utah","49","Unknown or Not Stated","9","No","2","None checked","1",13
+,"2023","2023","Vermont","50","Vaginal","1","Yes","1","At least one checked","0",13
+,"2023","2023","Vermont","50","Vaginal","1","Yes","1","None checked","1",144
+,"2023","2023","Vermont","50","Vaginal","1","No","2","At least one checked","0",83
+,"2023","2023","Vermont","50","Vaginal","1","No","2","None checked","1",3433
+,"2023","2023","Vermont","50","Cesarean","2","Yes","1","None checked","1",509
+,"2023","2023","Vermont","50","Cesarean","2","No","2","At least one checked","0",26
+,"2023","2023","Vermont","50","Cesarean","2","No","2","None checked","1",850
+,"2023","2023","Virginia","51","Vaginal","1","Yes","1","At least one checked","0",37
+,"2023","2023","Virginia","51","Vaginal","1","Yes","1","None checked","1",2595
+,"2023","2023","Virginia","51","Vaginal","1","No","2","At least one checked","0",538
+,"2023","2023","Virginia","51","Vaginal","1","No","2","None checked","1",59546
+,"2023","2023","Virginia","51","Cesarean","2","Yes","1","At least one checked","0",79
+,"2023","2023","Virginia","51","Cesarean","2","Yes","1","None checked","1",13389
+,"2023","2023","Virginia","51","Cesarean","2","No","2","At least one checked","0",141
+,"2023","2023","Virginia","51","Cesarean","2","No","2","None checked","1",16315
+,"2023","2023","Washington","53","Vaginal","1","Yes","1","At least one checked","0",66
+,"2023","2023","Washington","53","Vaginal","1","Yes","1","None checked","1",2090
+,"2023","2023","Washington","53","Vaginal","1","No","2","At least one checked","0",1136
+,"2023","2023","Washington","53","Vaginal","1","No","2","None checked","1",52727
+,"2023","2023","Washington","53","Vaginal","1","No","2","Unknown or Not Stated","9",184
+,"2023","2023","Washington","53","Vaginal","1","Unknown or Not Stated","9","None checked","1",187
+,"2023","2023","Washington","53","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",48
+,"2023","2023","Washington","53","Cesarean","2","Yes","1","At least one checked","0",125
+,"2023","2023","Washington","53","Cesarean","2","Yes","1","None checked","1",8531
+,"2023","2023","Washington","53","Cesarean","2","Yes","1","Unknown or Not Stated","9",43
+,"2023","2023","Washington","53","Cesarean","2","No","2","At least one checked","0",245
+,"2023","2023","Washington","53","Cesarean","2","No","2","None checked","1",15094
+,"2023","2023","Washington","53","Cesarean","2","No","2","Unknown or Not Stated","9",74
+,"2023","2023","Washington","53","Cesarean","2","Unknown or Not Stated","9","None checked","1",82
+,"2023","2023","Washington","53","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",23
+,"2023","2023","Washington","53","Unknown or Not Stated","9","Yes","1","None checked","1",21
+,"2023","2023","Washington","53","Unknown or Not Stated","9","No","2","None checked","1",165
+,"2023","2023","Washington","53","Unknown or Not Stated","9","No","2","Unknown or Not Stated","9",32
+,"2023","2023","Washington","53","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",33
+,"2023","2023","West Virginia","54","Vaginal","1","Yes","1","None checked","1",300
+,"2023","2023","West Virginia","54","Vaginal","1","No","2","At least one checked","0",127
+,"2023","2023","West Virginia","54","Vaginal","1","No","2","None checked","1",10286
+,"2023","2023","West Virginia","54","Vaginal","1","No","2","Unknown or Not Stated","9",35
+,"2023","2023","West Virginia","54","Vaginal","1","Unknown or Not Stated","9","None checked","1",45
+,"2023","2023","West Virginia","54","Cesarean","2","Yes","1","At least one checked","0",20
+,"2023","2023","West Virginia","54","Cesarean","2","Yes","1","None checked","1",2196
+,"2023","2023","West Virginia","54","Cesarean","2","Yes","1","Unknown or Not Stated","9",13
+,"2023","2023","West Virginia","54","Cesarean","2","No","2","At least one checked","0",46
+,"2023","2023","West Virginia","54","Cesarean","2","No","2","None checked","1",3460
+,"2023","2023","West Virginia","54","Cesarean","2","No","2","Unknown or Not Stated","9",54
+,"2023","2023","West Virginia","54","Cesarean","2","Unknown or Not Stated","9","None checked","1",12
+,"2023","2023","Wisconsin","55","Vaginal","1","Yes","1","At least one checked","0",78
+,"2023","2023","Wisconsin","55","Vaginal","1","Yes","1","None checked","1",1852
+,"2023","2023","Wisconsin","55","Vaginal","1","No","2","At least one checked","0",1114
+,"2023","2023","Wisconsin","55","Vaginal","1","No","2","None checked","1",40038
+,"2023","2023","Wisconsin","55","Vaginal","1","No","2","Unknown or Not Stated","9",73
+,"2023","2023","Wisconsin","55","Vaginal","1","Unknown or Not Stated","9","None checked","1",83
+,"2023","2023","Wisconsin","55","Cesarean","2","Yes","1","At least one checked","0",126
+,"2023","2023","Wisconsin","55","Cesarean","2","Yes","1","None checked","1",6697
+,"2023","2023","Wisconsin","55","Cesarean","2","Yes","1","Unknown or Not Stated","9",10
+,"2023","2023","Wisconsin","55","Cesarean","2","No","2","At least one checked","0",178
+,"2023","2023","Wisconsin","55","Cesarean","2","No","2","None checked","1",9189
+,"2023","2023","Wisconsin","55","Cesarean","2","No","2","Unknown or Not Stated","9",31
+,"2023","2023","Wisconsin","55","Cesarean","2","Unknown or Not Stated","9","None checked","1",23
+,"2023","2023","Wisconsin","55","Unknown or Not Stated","9","Yes","1","None checked","1",15
+,"2023","2023","Wisconsin","55","Unknown or Not Stated","9","No","2","None checked","1",216
+,"2023","2023","Wyoming","56","Vaginal","1","Yes","1","None checked","1",115
+,"2023","2023","Wyoming","56","Vaginal","1","No","2","At least one checked","0",82
+,"2023","2023","Wyoming","56","Vaginal","1","No","2","None checked","1",4090
+,"2023","2023","Wyoming","56","Cesarean","2","Yes","1","None checked","1",703
+,"2023","2023","Wyoming","56","Cesarean","2","No","2","At least one checked","0",23
+,"2023","2023","Wyoming","56","Cesarean","2","No","2","None checked","1",957
+,"2024","2024","Alabama","01","Vaginal","1","Yes","1","At least one checked","0",33
+,"2024","2024","Alabama","01","Vaginal","1","Yes","1","None checked","1",1056
+,"2024","2024","Alabama","01","Vaginal","1","No","2","At least one checked","0",549
+,"2024","2024","Alabama","01","Vaginal","1","No","2","None checked","1",36187
+,"2024","2024","Alabama","01","Cesarean","2","Yes","1","At least one checked","0",100
+,"2024","2024","Alabama","01","Cesarean","2","Yes","1","None checked","1",7774
+,"2024","2024","Alabama","01","Cesarean","2","No","2","At least one checked","0",166
+,"2024","2024","Alabama","01","Cesarean","2","No","2","None checked","1",12042
+,"2024","2024","Alabama","01","Unknown or Not Stated","9","No","2","None checked","1",19
+,"2024","2024","Alaska","02","Vaginal","1","Yes","1","At least one checked","0",14
+,"2024","2024","Alaska","02","Vaginal","1","Yes","1","None checked","1",293
+,"2024","2024","Alaska","02","Vaginal","1","No","2","At least one checked","0",188
+,"2024","2024","Alaska","02","Vaginal","1","No","2","None checked","1",6289
+,"2024","2024","Alaska","02","Vaginal","1","No","2","Unknown or Not Stated","9",20
+,"2024","2024","Alaska","02","Vaginal","1","Unknown or Not Stated","9","None checked","1",49
+,"2024","2024","Alaska","02","Cesarean","2","Yes","1","None checked","1",787
+,"2024","2024","Alaska","02","Cesarean","2","No","2","At least one checked","0",34
+,"2024","2024","Alaska","02","Cesarean","2","No","2","None checked","1",1238
+,"2024","2024","Arizona","04","Vaginal","1","Yes","1","At least one checked","0",31
+,"2024","2024","Arizona","04","Vaginal","1","Yes","1","None checked","1",1899
+,"2024","2024","Arizona","04","Vaginal","1","No","2","At least one checked","0",721
+,"2024","2024","Arizona","04","Vaginal","1","No","2","None checked","1",52838
+,"2024","2024","Arizona","04","Cesarean","2","Yes","1","At least one checked","0",170
+,"2024","2024","Arizona","04","Cesarean","2","Yes","1","None checked","1",8879
+,"2024","2024","Arizona","04","Cesarean","2","No","2","At least one checked","0",270
+,"2024","2024","Arizona","04","Cesarean","2","No","2","None checked","1",13898
+,"2024","2024","Arkansas","05","Vaginal","1","Yes","1","At least one checked","0",17
+,"2024","2024","Arkansas","05","Vaginal","1","Yes","1","None checked","1",598
+,"2024","2024","Arkansas","05","Vaginal","1","No","2","At least one checked","0",388
+,"2024","2024","Arkansas","05","Vaginal","1","No","2","None checked","1",22333
+,"2024","2024","Arkansas","05","Cesarean","2","Yes","1","At least one checked","0",80
+,"2024","2024","Arkansas","05","Cesarean","2","Yes","1","None checked","1",4796
+,"2024","2024","Arkansas","05","Cesarean","2","No","2","At least one checked","0",150
+,"2024","2024","Arkansas","05","Cesarean","2","No","2","None checked","1",7021
+,"2024","2024","California","06","Vaginal","1","Yes","1","At least one checked","0",239
+,"2024","2024","California","06","Vaginal","1","Yes","1","None checked","1",8778
+,"2024","2024","California","06","Vaginal","1","Yes","1","Unknown or Not Stated","9",13
+,"2024","2024","California","06","Vaginal","1","No","2","At least one checked","0",3898
+,"2024","2024","California","06","Vaginal","1","No","2","None checked","1",260537
+,"2024","2024","California","06","Vaginal","1","No","2","Unknown or Not Stated","9",458
+,"2024","2024","California","06","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",159
+,"2024","2024","California","06","Cesarean","2","Yes","1","At least one checked","0",506
+,"2024","2024","California","06","Cesarean","2","Yes","1","None checked","1",54622
+,"2024","2024","California","06","Cesarean","2","Yes","1","Unknown or Not Stated","9",29
+,"2024","2024","California","06","Cesarean","2","No","2","At least one checked","0",751
+,"2024","2024","California","06","Cesarean","2","No","2","None checked","1",72010
+,"2024","2024","California","06","Cesarean","2","No","2","Unknown or Not Stated","9",24
+,"2024","2024","California","06","Unknown or Not Stated","9","No","2","None checked","1",17
+,"2024","2024","California","06","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",16
+,"2024","2024","Colorado","08","Vaginal","1","Yes","1","At least one checked","0",38
+,"2024","2024","Colorado","08","Vaginal","1","Yes","1","None checked","1",1721
+,"2024","2024","Colorado","08","Vaginal","1","No","2","At least one checked","0",639
+,"2024","2024","Colorado","08","Vaginal","1","No","2","None checked","1",43868
+,"2024","2024","Colorado","08","Vaginal","1","No","2","Unknown or Not Stated","9",11
+,"2024","2024","Colorado","08","Vaginal","1","Unknown or Not Stated","9","None checked","1",11
+,"2024","2024","Colorado","08","Cesarean","2","Yes","1","At least one checked","0",103
+,"2024","2024","Colorado","08","Cesarean","2","Yes","1","None checked","1",6229
+,"2024","2024","Colorado","08","Cesarean","2","No","2","At least one checked","0",173
+,"2024","2024","Colorado","08","Cesarean","2","No","2","None checked","1",11414
+,"2024","2024","Colorado","08","Unknown or Not Stated","9","No","2","None checked","1",32
+,"2024","2024","Colorado","08","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",18
+,"2024","2024","Connecticut","09","Vaginal","1","Yes","1","At least one checked","0",31
+,"2024","2024","Connecticut","09","Vaginal","1","Yes","1","None checked","1",916
+,"2024","2024","Connecticut","09","Vaginal","1","No","2","At least one checked","0",328
+,"2024","2024","Connecticut","09","Vaginal","1","No","2","None checked","1",20891
+,"2024","2024","Connecticut","09","Vaginal","1","Unknown or Not Stated","9","None checked","1",18
+,"2024","2024","Connecticut","09","Cesarean","2","Yes","1","At least one checked","0",69
+,"2024","2024","Connecticut","09","Cesarean","2","Yes","1","None checked","1",4935
+,"2024","2024","Connecticut","09","Cesarean","2","No","2","At least one checked","0",129
+,"2024","2024","Connecticut","09","Cesarean","2","No","2","None checked","1",7254
+,"2024","2024","Delaware","10","Vaginal","1","Yes","1","At least one checked","0",10
+,"2024","2024","Delaware","10","Vaginal","1","Yes","1","None checked","1",219
+,"2024","2024","Delaware","10","Vaginal","1","No","2","At least one checked","0",224
+,"2024","2024","Delaware","10","Vaginal","1","No","2","None checked","1",6509
+,"2024","2024","Delaware","10","Vaginal","1","No","2","Unknown or Not Stated","9",12
+,"2024","2024","Delaware","10","Vaginal","1","Unknown or Not Stated","9","None checked","1",33
+,"2024","2024","Delaware","10","Cesarean","2","Yes","1","At least one checked","0",87
+,"2024","2024","Delaware","10","Cesarean","2","Yes","1","None checked","1",1294
+,"2024","2024","Delaware","10","Cesarean","2","No","2","At least one checked","0",197
+,"2024","2024","Delaware","10","Cesarean","2","No","2","None checked","1",1932
+,"2024","2024","Delaware","10","Cesarean","2","Unknown or Not Stated","9","None checked","1",17
+,"2024","2024","District of Columbia","11","Vaginal","1","Yes","1","None checked","1",188
+,"2024","2024","District of Columbia","11","Vaginal","1","No","2","At least one checked","0",61
+,"2024","2024","District of Columbia","11","Vaginal","1","No","2","None checked","1",4593
+,"2024","2024","District of Columbia","11","Cesarean","2","Yes","1","None checked","1",783
+,"2024","2024","District of Columbia","11","Cesarean","2","No","2","At least one checked","0",15
+,"2024","2024","District of Columbia","11","Cesarean","2","No","2","None checked","1",1963
+,"2024","2024","Florida","12","Vaginal","1","Yes","1","At least one checked","0",74
+,"2024","2024","Florida","12","Vaginal","1","Yes","1","None checked","1",3707
+,"2024","2024","Florida","12","Vaginal","1","Yes","1","Unknown or Not Stated","9",32
+,"2024","2024","Florida","12","Vaginal","1","No","2","At least one checked","0",1305
+,"2024","2024","Florida","12","Vaginal","1","No","2","None checked","1",135299
+,"2024","2024","Florida","12","Vaginal","1","No","2","Unknown or Not Stated","9",637
+,"2024","2024","Florida","12","Vaginal","1","Unknown or Not Stated","9","None checked","1",172
+,"2024","2024","Florida","12","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",144
+,"2024","2024","Florida","12","Cesarean","2","Yes","1","At least one checked","0",223
+,"2024","2024","Florida","12","Cesarean","2","Yes","1","None checked","1",28363
+,"2024","2024","Florida","12","Cesarean","2","Yes","1","Unknown or Not Stated","9",131
+,"2024","2024","Florida","12","Cesarean","2","No","2","At least one checked","0",482
+,"2024","2024","Florida","12","Cesarean","2","No","2","None checked","1",50849
+,"2024","2024","Florida","12","Cesarean","2","No","2","Unknown or Not Stated","9",345
+,"2024","2024","Florida","12","Cesarean","2","Unknown or Not Stated","9","None checked","1",27
+,"2024","2024","Florida","12","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",41
+,"2024","2024","Florida","12","Unknown or Not Stated","9","Yes","1","None checked","1",31
+,"2024","2024","Florida","12","Unknown or Not Stated","9","Yes","1","Unknown or Not Stated","9",12
+,"2024","2024","Florida","12","Unknown or Not Stated","9","No","2","None checked","1",451
+,"2024","2024","Florida","12","Unknown or Not Stated","9","No","2","Unknown or Not Stated","9",153
+,"2024","2024","Florida","12","Unknown or Not Stated","9","Unknown or Not Stated","9","None checked","1",11
+,"2024","2024","Florida","12","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",1888
+,"2024","2024","Georgia","13","Vaginal","1","Yes","1","At least one checked","0",33
+,"2024","2024","Georgia","13","Vaginal","1","Yes","1","None checked","1",1641
+,"2024","2024","Georgia","13","Vaginal","1","No","2","At least one checked","0",1002
+,"2024","2024","Georgia","13","Vaginal","1","No","2","None checked","1",79143
+,"2024","2024","Georgia","13","Vaginal","1","No","2","Unknown or Not Stated","9",24
+,"2024","2024","Georgia","13","Vaginal","1","Unknown or Not Stated","9","None checked","1",67
+,"2024","2024","Georgia","13","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",12
+,"2024","2024","Georgia","13","Cesarean","2","Yes","1","At least one checked","0",248
+,"2024","2024","Georgia","13","Cesarean","2","Yes","1","None checked","1",14614
+,"2024","2024","Georgia","13","Cesarean","2","No","2","At least one checked","0",497
+,"2024","2024","Georgia","13","Cesarean","2","No","2","None checked","1",28515
+,"2024","2024","Georgia","13","Cesarean","2","Unknown or Not Stated","9","None checked","1",22
+,"2024","2024","Georgia","13","Unknown or Not Stated","9","Yes","1","None checked","1",72
+,"2024","2024","Georgia","13","Unknown or Not Stated","9","No","2","None checked","1",514
+,"2024","2024","Hawaii","15","Vaginal","1","Yes","1","None checked","1",400
+,"2024","2024","Hawaii","15","Vaginal","1","No","2","At least one checked","0",157
+,"2024","2024","Hawaii","15","Vaginal","1","No","2","None checked","1",10328
+,"2024","2024","Hawaii","15","Cesarean","2","Yes","1","At least one checked","0",26
+,"2024","2024","Hawaii","15","Cesarean","2","Yes","1","None checked","1",1449
+,"2024","2024","Hawaii","15","Cesarean","2","No","2","At least one checked","0",39
+,"2024","2024","Hawaii","15","Cesarean","2","No","2","None checked","1",2508
+,"2024","2024","Idaho","16","Vaginal","1","Yes","1","At least one checked","0",22
+,"2024","2024","Idaho","16","Vaginal","1","Yes","1","None checked","1",722
+,"2024","2024","Idaho","16","Vaginal","1","No","2","At least one checked","0",237
+,"2024","2024","Idaho","16","Vaginal","1","No","2","None checked","1",16558
+,"2024","2024","Idaho","16","Vaginal","1","Unknown or Not Stated","9","None checked","1",10
+,"2024","2024","Idaho","16","Cesarean","2","Yes","1","At least one checked","0",39
+,"2024","2024","Idaho","16","Cesarean","2","Yes","1","None checked","1",2219
+,"2024","2024","Idaho","16","Cesarean","2","No","2","At least one checked","0",63
+,"2024","2024","Idaho","16","Cesarean","2","No","2","None checked","1",3378
+,"2024","2024","Illinois","17","Vaginal","1","Yes","1","At least one checked","0",100
+,"2024","2024","Illinois","17","Vaginal","1","Yes","1","None checked","1",3536
+,"2024","2024","Illinois","17","Vaginal","1","No","2","At least one checked","0",1457
+,"2024","2024","Illinois","17","Vaginal","1","No","2","None checked","1",81813
+,"2024","2024","Illinois","17","Vaginal","1","No","2","Unknown or Not Stated","9",40
+,"2024","2024","Illinois","17","Vaginal","1","Unknown or Not Stated","9","None checked","1",59
+,"2024","2024","Illinois","17","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",43
+,"2024","2024","Illinois","17","Cesarean","2","Yes","1","At least one checked","0",299
+,"2024","2024","Illinois","17","Cesarean","2","Yes","1","None checked","1",15982
+,"2024","2024","Illinois","17","Cesarean","2","No","2","At least one checked","0",587
+,"2024","2024","Illinois","17","Cesarean","2","No","2","None checked","1",21762
+,"2024","2024","Illinois","17","Cesarean","2","Unknown or Not Stated","9","None checked","1",12
+,"2024","2024","Indiana","18","Vaginal","1","Yes","1","At least one checked","0",45
+,"2024","2024","Indiana","18","Vaginal","1","Yes","1","None checked","1",1842
+,"2024","2024","Indiana","18","Vaginal","1","No","2","At least one checked","0",707
+,"2024","2024","Indiana","18","Vaginal","1","No","2","None checked","1",52332
+,"2024","2024","Indiana","18","Vaginal","1","No","2","Unknown or Not Stated","9",69
+,"2024","2024","Indiana","18","Vaginal","1","Unknown or Not Stated","9","At least one checked","0",12
+,"2024","2024","Indiana","18","Vaginal","1","Unknown or Not Stated","9","None checked","1",316
+,"2024","2024","Indiana","18","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",66
+,"2024","2024","Indiana","18","Cesarean","2","Yes","1","At least one checked","0",121
+,"2024","2024","Indiana","18","Cesarean","2","Yes","1","None checked","1",9851
+,"2024","2024","Indiana","18","Cesarean","2","Yes","1","Unknown or Not Stated","9",30
+,"2024","2024","Indiana","18","Cesarean","2","No","2","At least one checked","0",208
+,"2024","2024","Indiana","18","Cesarean","2","No","2","None checked","1",14471
+,"2024","2024","Indiana","18","Cesarean","2","No","2","Unknown or Not Stated","9",35
+,"2024","2024","Indiana","18","Cesarean","2","Unknown or Not Stated","9","None checked","1",90
+,"2024","2024","Indiana","18","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",50
+,"2024","2024","Iowa","19","Vaginal","1","Yes","1","At least one checked","0",34
+,"2024","2024","Iowa","19","Vaginal","1","Yes","1","None checked","1",961
+,"2024","2024","Iowa","19","Vaginal","1","No","2","At least one checked","0",568
+,"2024","2024","Iowa","19","Vaginal","1","No","2","None checked","1",23965
+,"2024","2024","Iowa","19","Cesarean","2","Yes","1","At least one checked","0",128
+,"2024","2024","Iowa","19","Cesarean","2","Yes","1","None checked","1",4369
+,"2024","2024","Iowa","19","Cesarean","2","No","2","At least one checked","0",203
+,"2024","2024","Iowa","19","Cesarean","2","No","2","None checked","1",6200
+,"2024","2024","Kansas","20","Vaginal","1","Yes","1","At least one checked","0",19
+,"2024","2024","Kansas","20","Vaginal","1","Yes","1","None checked","1",964
+,"2024","2024","Kansas","20","Vaginal","1","No","2","At least one checked","0",337
+,"2024","2024","Kansas","20","Vaginal","1","No","2","None checked","1",22437
+,"2024","2024","Kansas","20","Cesarean","2","Yes","1","At least one checked","0",49
+,"2024","2024","Kansas","20","Cesarean","2","Yes","1","None checked","1",4371
+,"2024","2024","Kansas","20","Cesarean","2","No","2","At least one checked","0",82
+,"2024","2024","Kansas","20","Cesarean","2","No","2","None checked","1",5721
+,"2024","2024","Kentucky","21","Vaginal","1","Yes","1","At least one checked","0",22
+,"2024","2024","Kentucky","21","Vaginal","1","Yes","1","None checked","1",1103
+,"2024","2024","Kentucky","21","Vaginal","1","No","2","At least one checked","0",551
+,"2024","2024","Kentucky","21","Vaginal","1","No","2","None checked","1",32881
+,"2024","2024","Kentucky","21","Vaginal","1","No","2","Unknown or Not Stated","9",38
+,"2024","2024","Kentucky","21","Vaginal","1","Unknown or Not Stated","9","None checked","1",52
+,"2024","2024","Kentucky","21","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",14
+,"2024","2024","Kentucky","21","Cesarean","2","Yes","1","At least one checked","0",103
+,"2024","2024","Kentucky","21","Cesarean","2","Yes","1","None checked","1",7864
+,"2024","2024","Kentucky","21","Cesarean","2","Yes","1","Unknown or Not Stated","9",10
+,"2024","2024","Kentucky","21","Cesarean","2","No","2","At least one checked","0",140
+,"2024","2024","Kentucky","21","Cesarean","2","No","2","None checked","1",10072
+,"2024","2024","Kentucky","21","Cesarean","2","No","2","Unknown or Not Stated","9",13
+,"2024","2024","Kentucky","21","Cesarean","2","Unknown or Not Stated","9","None checked","1",16
+,"2024","2024","Kentucky","21","Unknown or Not Stated","9","No","2","None checked","1",14
+,"2024","2024","Louisiana","22","Vaginal","1","Yes","1","At least one checked","0",16
+,"2024","2024","Louisiana","22","Vaginal","1","Yes","1","None checked","1",1039
+,"2024","2024","Louisiana","22","Vaginal","1","No","2","At least one checked","0",322
+,"2024","2024","Louisiana","22","Vaginal","1","No","2","None checked","1",32684
+,"2024","2024","Louisiana","22","Cesarean","2","Yes","1","At least one checked","0",92
+,"2024","2024","Louisiana","22","Cesarean","2","Yes","1","None checked","1",7941
+,"2024","2024","Louisiana","22","Cesarean","2","No","2","At least one checked","0",113
+,"2024","2024","Louisiana","22","Cesarean","2","No","2","None checked","1",11098
+,"2024","2024","Maine","23","Vaginal","1","Yes","1","At least one checked","0",14
+,"2024","2024","Maine","23","Vaginal","1","Yes","1","None checked","1",289
+,"2024","2024","Maine","23","Vaginal","1","No","2","At least one checked","0",213
+,"2024","2024","Maine","23","Vaginal","1","No","2","None checked","1",7482
+,"2024","2024","Maine","23","Vaginal","1","No","2","Unknown or Not Stated","9",10
+,"2024","2024","Maine","23","Cesarean","2","Yes","1","At least one checked","0",19
+,"2024","2024","Maine","23","Cesarean","2","Yes","1","None checked","1",1372
+,"2024","2024","Maine","23","Cesarean","2","No","2","At least one checked","0",44
+,"2024","2024","Maine","23","Cesarean","2","No","2","None checked","1",2144
+,"2024","2024","Maryland","24","Vaginal","1","Yes","1","At least one checked","0",57
+,"2024","2024","Maryland","24","Vaginal","1","Yes","1","None checked","1",1833
+,"2024","2024","Maryland","24","Vaginal","1","No","2","At least one checked","0",1001
+,"2024","2024","Maryland","24","Vaginal","1","No","2","None checked","1",39454
+,"2024","2024","Maryland","24","Vaginal","1","No","2","Unknown or Not Stated","9",37
+,"2024","2024","Maryland","24","Cesarean","2","Yes","1","At least one checked","0",299
+,"2024","2024","Maryland","24","Cesarean","2","Yes","1","None checked","1",9535
+,"2024","2024","Maryland","24","Cesarean","2","Yes","1","Unknown or Not Stated","9",14
+,"2024","2024","Maryland","24","Cesarean","2","No","2","At least one checked","0",533
+,"2024","2024","Maryland","24","Cesarean","2","No","2","None checked","1",12996
+,"2024","2024","Maryland","24","Cesarean","2","No","2","Unknown or Not Stated","9",16
+,"2024","2024","Massachusetts","25","Vaginal","1","Yes","1","At least one checked","0",70
+,"2024","2024","Massachusetts","25","Vaginal","1","Yes","1","None checked","1",1803
+,"2024","2024","Massachusetts","25","Vaginal","1","No","2","At least one checked","0",1054
+,"2024","2024","Massachusetts","25","Vaginal","1","No","2","None checked","1",41974
+,"2024","2024","Massachusetts","25","Cesarean","2","Yes","1","At least one checked","0",185
+,"2024","2024","Massachusetts","25","Cesarean","2","Yes","1","None checked","1",9335
+,"2024","2024","Massachusetts","25","Cesarean","2","No","2","At least one checked","0",281
+,"2024","2024","Massachusetts","25","Cesarean","2","No","2","None checked","1",13287
+,"2024","2024","Massachusetts","25","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",179
+,"2024","2024","Michigan","26","Vaginal","1","Yes","1","At least one checked","0",66
+,"2024","2024","Michigan","26","Vaginal","1","Yes","1","None checked","1",2402
+,"2024","2024","Michigan","26","Vaginal","1","Yes","1","Unknown or Not Stated","9",85
+,"2024","2024","Michigan","26","Vaginal","1","No","2","At least one checked","0",1090
+,"2024","2024","Michigan","26","Vaginal","1","No","2","None checked","1",60702
+,"2024","2024","Michigan","26","Vaginal","1","No","2","Unknown or Not Stated","9",2432
+,"2024","2024","Michigan","26","Vaginal","1","Unknown or Not Stated","9","None checked","1",143
+,"2024","2024","Michigan","26","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",55
+,"2024","2024","Michigan","26","Cesarean","2","Yes","1","At least one checked","0",185
+,"2024","2024","Michigan","26","Cesarean","2","Yes","1","None checked","1",12238
+,"2024","2024","Michigan","26","Cesarean","2","Yes","1","Unknown or Not Stated","9",375
+,"2024","2024","Michigan","26","Cesarean","2","No","2","At least one checked","0",381
+,"2024","2024","Michigan","26","Cesarean","2","No","2","None checked","1",18579
+,"2024","2024","Michigan","26","Cesarean","2","No","2","Unknown or Not Stated","9",665
+,"2024","2024","Michigan","26","Cesarean","2","Unknown or Not Stated","9","None checked","1",23
+,"2024","2024","Michigan","26","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",21
+,"2024","2024","Michigan","26","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",64
+,"2024","2024","Minnesota","27","Vaginal","1","Yes","1","At least one checked","0",88
+,"2024","2024","Minnesota","27","Vaginal","1","Yes","1","None checked","1",2066
+,"2024","2024","Minnesota","27","Vaginal","1","No","2","At least one checked","0",956
+,"2024","2024","Minnesota","27","Vaginal","1","No","2","None checked","1",40117
+,"2024","2024","Minnesota","27","Vaginal","1","No","2","Unknown or Not Stated","9",28
+,"2024","2024","Minnesota","27","Vaginal","1","Unknown or Not Stated","9","None checked","1",34
+,"2024","2024","Minnesota","27","Cesarean","2","Yes","1","At least one checked","0",139
+,"2024","2024","Minnesota","27","Cesarean","2","Yes","1","None checked","1",7384
+,"2024","2024","Minnesota","27","Cesarean","2","No","2","At least one checked","0",233
+,"2024","2024","Minnesota","27","Cesarean","2","No","2","None checked","1",10979
+,"2024","2024","Minnesota","27","Unknown or Not Stated","9","No","2","None checked","1",43
+,"2024","2024","Minnesota","27","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",21
+,"2024","2024","Mississippi","28","Vaginal","1","Yes","1","None checked","1",591
+,"2024","2024","Mississippi","28","Vaginal","1","No","2","At least one checked","0",215
+,"2024","2024","Mississippi","28","Vaginal","1","No","2","None checked","1",19959
+,"2024","2024","Mississippi","28","Cesarean","2","Yes","1","At least one checked","0",82
+,"2024","2024","Mississippi","28","Cesarean","2","Yes","1","None checked","1",5801
+,"2024","2024","Mississippi","28","Cesarean","2","No","2","At least one checked","0",93
+,"2024","2024","Mississippi","28","Cesarean","2","No","2","None checked","1",6714
+,"2024","2024","Missouri","29","Vaginal","1","Yes","1","At least one checked","0",26
+,"2024","2024","Missouri","29","Vaginal","1","Yes","1","None checked","1",1752
+,"2024","2024","Missouri","29","Vaginal","1","No","2","At least one checked","0",749
+,"2024","2024","Missouri","29","Vaginal","1","No","2","None checked","1",44733
+,"2024","2024","Missouri","29","Cesarean","2","Yes","1","At least one checked","0",100
+,"2024","2024","Missouri","29","Cesarean","2","Yes","1","None checked","1",7932
+,"2024","2024","Missouri","29","Cesarean","2","No","2","At least one checked","0",196
+,"2024","2024","Missouri","29","Cesarean","2","No","2","None checked","1",12475
+,"2024","2024","Missouri","29","Unknown or Not Stated","9","No","2","None checked","1",33
+,"2024","2024","Montana","30","Vaginal","1","Yes","1","At least one checked","0",12
+,"2024","2024","Montana","30","Vaginal","1","Yes","1","None checked","1",262
+,"2024","2024","Montana","30","Vaginal","1","No","2","At least one checked","0",150
+,"2024","2024","Montana","30","Vaginal","1","No","2","None checked","1",7939
+,"2024","2024","Montana","30","Cesarean","2","Yes","1","At least one checked","0",17
+,"2024","2024","Montana","30","Cesarean","2","Yes","1","None checked","1",1061
+,"2024","2024","Montana","30","Cesarean","2","No","2","At least one checked","0",42
+,"2024","2024","Montana","30","Cesarean","2","No","2","None checked","1",1838
+,"2024","2024","Nebraska","31","Vaginal","1","Yes","1","At least one checked","0",27
+,"2024","2024","Nebraska","31","Vaginal","1","Yes","1","None checked","1",754
+,"2024","2024","Nebraska","31","Vaginal","1","No","2","At least one checked","0",308
+,"2024","2024","Nebraska","31","Vaginal","1","No","2","None checked","1",16289
+,"2024","2024","Nebraska","31","Vaginal","1","No","2","Unknown or Not Stated","9",15
+,"2024","2024","Nebraska","31","Vaginal","1","Unknown or Not Stated","9","None checked","1",15
+,"2024","2024","Nebraska","31","Cesarean","2","Yes","1","At least one checked","0",41
+,"2024","2024","Nebraska","31","Cesarean","2","Yes","1","None checked","1",3114
+,"2024","2024","Nebraska","31","Cesarean","2","No","2","At least one checked","0",54
+,"2024","2024","Nebraska","31","Cesarean","2","No","2","None checked","1",4161
+,"2024","2024","Nevada","32","Vaginal","1","Yes","1","At least one checked","0",10
+,"2024","2024","Nevada","32","Vaginal","1","Yes","1","None checked","1",733
+,"2024","2024","Nevada","32","Vaginal","1","No","2","At least one checked","0",240
+,"2024","2024","Nevada","32","Vaginal","1","No","2","None checked","1",20748
+,"2024","2024","Nevada","32","Cesarean","2","Yes","1","At least one checked","0",61
+,"2024","2024","Nevada","32","Cesarean","2","Yes","1","None checked","1",3790
+,"2024","2024","Nevada","32","Cesarean","2","No","2","At least one checked","0",69
+,"2024","2024","Nevada","32","Cesarean","2","No","2","None checked","1",6719
+,"2024","2024","Nevada","32","Unknown or Not Stated","9","No","2","None checked","1",10
+,"2024","2024","New Hampshire","33","Vaginal","1","Yes","1","At least one checked","0",11
+,"2024","2024","New Hampshire","33","Vaginal","1","Yes","1","None checked","1",282
+,"2024","2024","New Hampshire","33","Vaginal","1","No","2","At least one checked","0",233
+,"2024","2024","New Hampshire","33","Vaginal","1","No","2","None checked","1",7531
+,"2024","2024","New Hampshire","33","Vaginal","1","No","2","Unknown or Not Stated","9",13
+,"2024","2024","New Hampshire","33","Vaginal","1","Unknown or Not Stated","9","None checked","1",23
+,"2024","2024","New Hampshire","33","Cesarean","2","Yes","1","At least one checked","0",40
+,"2024","2024","New Hampshire","33","Cesarean","2","Yes","1","None checked","1",1380
+,"2024","2024","New Hampshire","33","Cesarean","2","No","2","At least one checked","0",52
+,"2024","2024","New Hampshire","33","Cesarean","2","No","2","None checked","1",2189
+,"2024","2024","New Jersey","34","Vaginal","1","Yes","1","At least one checked","0",58
+,"2024","2024","New Jersey","34","Vaginal","1","Yes","1","None checked","1",2480
+,"2024","2024","New Jersey","34","Vaginal","1","Yes","1","Unknown or Not Stated","9",11
+,"2024","2024","New Jersey","34","Vaginal","1","No","2","At least one checked","0",995
+,"2024","2024","New Jersey","34","Vaginal","1","No","2","None checked","1",64312
+,"2024","2024","New Jersey","34","Vaginal","1","No","2","Unknown or Not Stated","9",164
+,"2024","2024","New Jersey","34","Cesarean","2","Yes","1","At least one checked","0",227
+,"2024","2024","New Jersey","34","Cesarean","2","Yes","1","None checked","1",14016
+,"2024","2024","New Jersey","34","Cesarean","2","Yes","1","Unknown or Not Stated","9",38
+,"2024","2024","New Jersey","34","Cesarean","2","No","2","At least one checked","0",361
+,"2024","2024","New Jersey","34","Cesarean","2","No","2","None checked","1",18642
+,"2024","2024","New Jersey","34","Cesarean","2","No","2","Unknown or Not Stated","9",56
+,"2024","2024","New Mexico","35","Vaginal","1","Yes","1","At least one checked","0",16
+,"2024","2024","New Mexico","35","Vaginal","1","Yes","1","None checked","1",543
+,"2024","2024","New Mexico","35","Vaginal","1","No","2","At least one checked","0",182
+,"2024","2024","New Mexico","35","Vaginal","1","No","2","None checked","1",14506
+,"2024","2024","New Mexico","35","Cesarean","2","Yes","1","At least one checked","0",29
+,"2024","2024","New Mexico","35","Cesarean","2","Yes","1","None checked","1",2301
+,"2024","2024","New Mexico","35","Cesarean","2","No","2","At least one checked","0",36
+,"2024","2024","New Mexico","35","Cesarean","2","No","2","None checked","1",3708
+,"2024","2024","New York","36","Vaginal","1","Yes","1","At least one checked","0",123
+,"2024","2024","New York","36","Vaginal","1","Yes","1","None checked","1",5197
+,"2024","2024","New York","36","Vaginal","1","No","2","At least one checked","0",2121
+,"2024","2024","New York","36","Vaginal","1","No","2","None checked","1",127750
+,"2024","2024","New York","36","Vaginal","1","No","2","Unknown or Not Stated","9",437
+,"2024","2024","New York","36","Vaginal","1","Unknown or Not Stated","9","None checked","1",60
+,"2024","2024","New York","36","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",34
+,"2024","2024","New York","36","Cesarean","2","Yes","1","At least one checked","0",523
+,"2024","2024","New York","36","Cesarean","2","Yes","1","None checked","1",29189
+,"2024","2024","New York","36","Cesarean","2","Yes","1","Unknown or Not Stated","9",92
+,"2024","2024","New York","36","Cesarean","2","No","2","At least one checked","0",820
+,"2024","2024","New York","36","Cesarean","2","No","2","None checked","1",38522
+,"2024","2024","New York","36","Cesarean","2","No","2","Unknown or Not Stated","9",145
+,"2024","2024","New York","36","Unknown or Not Stated","9","No","2","None checked","1",83
+,"2024","2024","New York","36","Unknown or Not Stated","9","No","2","Unknown or Not Stated","9",11
+,"2024","2024","New York","36","Unknown or Not Stated","9","Unknown or Not Stated","9","None checked","1",12
+,"2024","2024","New York","36","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",346
+,"2024","2024","North Carolina","37","Vaginal","1","Yes","1","At least one checked","0",77
+,"2024","2024","North Carolina","37","Vaginal","1","Yes","1","None checked","1",3167
+,"2024","2024","North Carolina","37","Vaginal","1","No","2","At least one checked","0",1220
+,"2024","2024","North Carolina","37","Vaginal","1","No","2","None checked","1",80224
+,"2024","2024","North Carolina","37","Vaginal","1","Unknown or Not Stated","9","None checked","1",341
+,"2024","2024","North Carolina","37","Cesarean","2","Yes","1","At least one checked","0",151
+,"2024","2024","North Carolina","37","Cesarean","2","Yes","1","None checked","1",13483
+,"2024","2024","North Carolina","37","Cesarean","2","No","2","At least one checked","0",345
+,"2024","2024","North Carolina","37","Cesarean","2","No","2","None checked","1",23722
+,"2024","2024","North Carolina","37","Cesarean","2","Unknown or Not Stated","9","None checked","1",108
+,"2024","2024","North Dakota","38","Vaginal","1","Yes","1","None checked","1",236
+,"2024","2024","North Dakota","38","Vaginal","1","No","2","At least one checked","0",127
+,"2024","2024","North Dakota","38","Vaginal","1","No","2","None checked","1",6661
+,"2024","2024","North Dakota","38","Cesarean","2","Yes","1","At least one checked","0",25
+,"2024","2024","North Dakota","38","Cesarean","2","Yes","1","None checked","1",1069
+,"2024","2024","North Dakota","38","Cesarean","2","No","2","At least one checked","0",45
+,"2024","2024","North Dakota","38","Cesarean","2","No","2","None checked","1",1461
+,"2024","2024","Ohio","39","Vaginal","1","Yes","1","At least one checked","0",93
+,"2024","2024","Ohio","39","Vaginal","1","Yes","1","None checked","1",3477
+,"2024","2024","Ohio","39","Vaginal","1","No","2","At least one checked","0",1739
+,"2024","2024","Ohio","39","Vaginal","1","No","2","None checked","1",80733
+,"2024","2024","Ohio","39","Vaginal","1","No","2","Unknown or Not Stated","9",10
+,"2024","2024","Ohio","39","Cesarean","2","Yes","1","At least one checked","0",300
+,"2024","2024","Ohio","39","Cesarean","2","Yes","1","None checked","1",17294
+,"2024","2024","Ohio","39","Cesarean","2","No","2","At least one checked","0",492
+,"2024","2024","Ohio","39","Cesarean","2","No","2","None checked","1",22559
+,"2024","2024","Ohio","39","Unknown or Not Stated","9","No","2","None checked","1",59
+,"2024","2024","Oklahoma","40","Vaginal","1","Yes","1","At least one checked","0",15
+,"2024","2024","Oklahoma","40","Vaginal","1","Yes","1","None checked","1",757
+,"2024","2024","Oklahoma","40","Vaginal","1","No","2","At least one checked","0",451
+,"2024","2024","Oklahoma","40","Vaginal","1","No","2","None checked","1",31055
+,"2024","2024","Oklahoma","40","Vaginal","1","No","2","Unknown or Not Stated","9",13
+,"2024","2024","Oklahoma","40","Cesarean","2","Yes","1","At least one checked","0",126
+,"2024","2024","Oklahoma","40","Cesarean","2","Yes","1","None checked","1",6688
+,"2024","2024","Oklahoma","40","Cesarean","2","No","2","At least one checked","0",199
+,"2024","2024","Oklahoma","40","Cesarean","2","No","2","None checked","1",8635
+,"2024","2024","Oregon","41","Vaginal","1","Yes","1","At least one checked","0",30
+,"2024","2024","Oregon","41","Vaginal","1","Yes","1","None checked","1",1049
+,"2024","2024","Oregon","41","Vaginal","1","No","2","At least one checked","0",563
+,"2024","2024","Oregon","41","Vaginal","1","No","2","None checked","1",25644
+,"2024","2024","Oregon","41","Vaginal","1","No","2","Unknown or Not Stated","9",185
+,"2024","2024","Oregon","41","Cesarean","2","Yes","1","At least one checked","0",72
+,"2024","2024","Oregon","41","Cesarean","2","Yes","1","None checked","1",4126
+,"2024","2024","Oregon","41","Cesarean","2","Yes","1","Unknown or Not Stated","9",35
+,"2024","2024","Oregon","41","Cesarean","2","No","2","At least one checked","0",160
+,"2024","2024","Oregon","41","Cesarean","2","No","2","None checked","1",7027
+,"2024","2024","Oregon","41","Cesarean","2","No","2","Unknown or Not Stated","9",62
+,"2024","2024","Pennsylvania","42","Vaginal","1","Yes","1","At least one checked","0",59
+,"2024","2024","Pennsylvania","42","Vaginal","1","Yes","1","None checked","1",3779
+,"2024","2024","Pennsylvania","42","Vaginal","1","Yes","1","Unknown or Not Stated","9",18
+,"2024","2024","Pennsylvania","42","Vaginal","1","No","2","At least one checked","0",1185
+,"2024","2024","Pennsylvania","42","Vaginal","1","No","2","None checked","1",81828
+,"2024","2024","Pennsylvania","42","Vaginal","1","No","2","Unknown or Not Stated","9",234
+,"2024","2024","Pennsylvania","42","Vaginal","1","Unknown or Not Stated","9","None checked","1",238
+,"2024","2024","Pennsylvania","42","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",155
+,"2024","2024","Pennsylvania","42","Cesarean","2","Yes","1","At least one checked","0",178
+,"2024","2024","Pennsylvania","42","Cesarean","2","Yes","1","None checked","1",16157
+,"2024","2024","Pennsylvania","42","Cesarean","2","Yes","1","Unknown or Not Stated","9",67
+,"2024","2024","Pennsylvania","42","Cesarean","2","No","2","At least one checked","0",350
+,"2024","2024","Pennsylvania","42","Cesarean","2","No","2","None checked","1",22812
+,"2024","2024","Pennsylvania","42","Cesarean","2","No","2","Unknown or Not Stated","9",81
+,"2024","2024","Pennsylvania","42","Cesarean","2","Unknown or Not Stated","9","None checked","1",68
+,"2024","2024","Pennsylvania","42","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",49
+,"2024","2024","Pennsylvania","42","Unknown or Not Stated","9","No","2","None checked","1",13
+,"2024","2024","Pennsylvania","42","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",20
+,"2024","2024","Rhode Island","44","Vaginal","1","Yes","1","None checked","1",262
+,"2024","2024","Rhode Island","44","Vaginal","1","No","2","At least one checked","0",130
+,"2024","2024","Rhode Island","44","Vaginal","1","No","2","None checked","1",6209
+,"2024","2024","Rhode Island","44","Cesarean","2","Yes","1","At least one checked","0",31
+,"2024","2024","Rhode Island","44","Cesarean","2","Yes","1","None checked","1",1283
+,"2024","2024","Rhode Island","44","Cesarean","2","No","2","At least one checked","0",66
+,"2024","2024","Rhode Island","44","Cesarean","2","No","2","None checked","1",2009
+,"2024","2024","South Carolina","45","Vaginal","1","Yes","1","At least one checked","0",26
+,"2024","2024","South Carolina","45","Vaginal","1","Yes","1","None checked","1",1274
+,"2024","2024","South Carolina","45","Vaginal","1","No","2","At least one checked","0",573
+,"2024","2024","South Carolina","45","Vaginal","1","No","2","None checked","1",37670
+,"2024","2024","South Carolina","45","Vaginal","1","No","2","Unknown or Not Stated","9",66
+,"2024","2024","South Carolina","45","Vaginal","1","Unknown or Not Stated","9","None checked","1",38
+,"2024","2024","South Carolina","45","Cesarean","2","Yes","1","At least one checked","0",95
+,"2024","2024","South Carolina","45","Cesarean","2","Yes","1","None checked","1",7247
+,"2024","2024","South Carolina","45","Cesarean","2","Yes","1","Unknown or Not Stated","9",10
+,"2024","2024","South Carolina","45","Cesarean","2","No","2","At least one checked","0",173
+,"2024","2024","South Carolina","45","Cesarean","2","No","2","None checked","1",11524
+,"2024","2024","South Carolina","45","Cesarean","2","No","2","Unknown or Not Stated","9",16
+,"2024","2024","South Carolina","45","Cesarean","2","Unknown or Not Stated","9","None checked","1",14
+,"2024","2024","South Carolina","45","Unknown or Not Stated","9","No","2","None checked","1",15
+,"2024","2024","South Dakota","46","Vaginal","1","Yes","1","None checked","1",360
+,"2024","2024","South Dakota","46","Vaginal","1","No","2","At least one checked","0",120
+,"2024","2024","South Dakota","46","Vaginal","1","No","2","None checked","1",8102
+,"2024","2024","South Dakota","46","Vaginal","1","Unknown or Not Stated","9","None checked","1",19
+,"2024","2024","South Dakota","46","Cesarean","2","Yes","1","At least one checked","0",12
+,"2024","2024","South Dakota","46","Cesarean","2","Yes","1","None checked","1",1131
+,"2024","2024","South Dakota","46","Cesarean","2","No","2","At least one checked","0",16
+,"2024","2024","South Dakota","46","Cesarean","2","No","2","None checked","1",1672
+,"2024","2024","Tennessee","47","Vaginal","1","Yes","1","At least one checked","0",33
+,"2024","2024","Tennessee","47","Vaginal","1","Yes","1","None checked","1",1955
+,"2024","2024","Tennessee","47","Vaginal","1","No","2","At least one checked","0",716
+,"2024","2024","Tennessee","47","Vaginal","1","No","2","None checked","1",54489
+,"2024","2024","Tennessee","47","Cesarean","2","Yes","1","At least one checked","0",147
+,"2024","2024","Tennessee","47","Cesarean","2","Yes","1","None checked","1",10558
+,"2024","2024","Tennessee","47","Cesarean","2","No","2","At least one checked","0",228
+,"2024","2024","Tennessee","47","Cesarean","2","No","2","None checked","1",15699
+,"2024","2024","Texas","48","Vaginal","1","Yes","1","At least one checked","0",88
+,"2024","2024","Texas","48","Vaginal","1","Yes","1","None checked","1",6376
+,"2024","2024","Texas","48","Vaginal","1","No","2","At least one checked","0",1892
+,"2024","2024","Texas","48","Vaginal","1","No","2","None checked","1",246818
+,"2024","2024","Texas","48","Vaginal","1","Unknown or Not Stated","9","None checked","1",645
+,"2024","2024","Texas","48","Cesarean","2","Yes","1","At least one checked","0",413
+,"2024","2024","Texas","48","Cesarean","2","Yes","1","None checked","1",53215
+,"2024","2024","Texas","48","Cesarean","2","No","2","At least one checked","0",621
+,"2024","2024","Texas","48","Cesarean","2","No","2","None checked","1",80478
+,"2024","2024","Texas","48","Cesarean","2","Unknown or Not Stated","9","None checked","1",137
+,"2024","2024","Texas","48","Unknown or Not Stated","9","Yes","1","None checked","1",15
+,"2024","2024","Texas","48","Unknown or Not Stated","9","No","2","None checked","1",84
+,"2024","2024","Texas","48","Unknown or Not Stated","9","Unknown or Not Stated","9","None checked","1",26
+,"2024","2024","Utah","49","Vaginal","1","Yes","1","At least one checked","0",67
+,"2024","2024","Utah","49","Vaginal","1","Yes","1","None checked","1",1702
+,"2024","2024","Utah","49","Vaginal","1","No","2","At least one checked","0",674
+,"2024","2024","Utah","49","Vaginal","1","No","2","None checked","1",32681
+,"2024","2024","Utah","49","Cesarean","2","Yes","1","At least one checked","0",122
+,"2024","2024","Utah","49","Cesarean","2","Yes","1","None checked","1",4491
+,"2024","2024","Utah","49","Cesarean","2","No","2","At least one checked","0",214
+,"2024","2024","Utah","49","Cesarean","2","No","2","None checked","1",6702
+,"2024","2024","Vermont","50","Vaginal","1","Yes","1","None checked","1",148
+,"2024","2024","Vermont","50","Vaginal","1","No","2","At least one checked","0",80
+,"2024","2024","Vermont","50","Vaginal","1","No","2","None checked","1",3465
+,"2024","2024","Vermont","50","Cesarean","2","Yes","1","At least one checked","0",12
+,"2024","2024","Vermont","50","Cesarean","2","Yes","1","None checked","1",459
+,"2024","2024","Vermont","50","Cesarean","2","No","2","At least one checked","0",29
+,"2024","2024","Vermont","50","Cesarean","2","No","2","None checked","1",823
+,"2024","2024","Virginia","51","Vaginal","1","Yes","1","At least one checked","0",37
+,"2024","2024","Virginia","51","Vaginal","1","Yes","1","None checked","1",2706
+,"2024","2024","Virginia","51","Vaginal","1","No","2","At least one checked","0",567
+,"2024","2024","Virginia","51","Vaginal","1","No","2","None checked","1",60543
+,"2024","2024","Virginia","51","Cesarean","2","Yes","1","At least one checked","0",98
+,"2024","2024","Virginia","51","Cesarean","2","Yes","1","None checked","1",13290
+,"2024","2024","Virginia","51","Cesarean","2","No","2","At least one checked","0",148
+,"2024","2024","Virginia","51","Cesarean","2","No","2","None checked","1",16649
+,"2024","2024","Washington","53","Vaginal","1","Yes","1","At least one checked","0",86
+,"2024","2024","Washington","53","Vaginal","1","Yes","1","None checked","1",2274
+,"2024","2024","Washington","53","Vaginal","1","No","2","At least one checked","0",1135
+,"2024","2024","Washington","53","Vaginal","1","No","2","None checked","1",53764
+,"2024","2024","Washington","53","Vaginal","1","No","2","Unknown or Not Stated","9",126
+,"2024","2024","Washington","53","Vaginal","1","Unknown or Not Stated","9","None checked","1",186
+,"2024","2024","Washington","53","Vaginal","1","Unknown or Not Stated","9","Unknown or Not Stated","9",40
+,"2024","2024","Washington","53","Cesarean","2","Yes","1","At least one checked","0",165
+,"2024","2024","Washington","53","Cesarean","2","Yes","1","None checked","1",8897
+,"2024","2024","Washington","53","Cesarean","2","Yes","1","Unknown or Not Stated","9",30
+,"2024","2024","Washington","53","Cesarean","2","No","2","At least one checked","0",297
+,"2024","2024","Washington","53","Cesarean","2","No","2","None checked","1",15789
+,"2024","2024","Washington","53","Cesarean","2","No","2","Unknown or Not Stated","9",66
+,"2024","2024","Washington","53","Cesarean","2","Unknown or Not Stated","9","None checked","1",72
+,"2024","2024","Washington","53","Cesarean","2","Unknown or Not Stated","9","Unknown or Not Stated","9",13
+,"2024","2024","Washington","53","Unknown or Not Stated","9","No","2","None checked","1",99
+,"2024","2024","Washington","53","Unknown or Not Stated","9","No","2","Unknown or Not Stated","9",26
+,"2024","2024","Washington","53","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",25
+,"2024","2024","West Virginia","54","Vaginal","1","Yes","1","None checked","1",299
+,"2024","2024","West Virginia","54","Vaginal","1","No","2","At least one checked","0",144
+,"2024","2024","West Virginia","54","Vaginal","1","No","2","None checked","1",10597
+,"2024","2024","West Virginia","54","Cesarean","2","Yes","1","At least one checked","0",28
+,"2024","2024","West Virginia","54","Cesarean","2","Yes","1","None checked","1",2229
+,"2024","2024","West Virginia","54","Cesarean","2","No","2","At least one checked","0",55
+,"2024","2024","West Virginia","54","Cesarean","2","No","2","None checked","1",3661
+,"2024","2024","Wisconsin","55","Vaginal","1","Yes","1","At least one checked","0",81
+,"2024","2024","Wisconsin","55","Vaginal","1","Yes","1","None checked","1",1933
+,"2024","2024","Wisconsin","55","Vaginal","1","No","2","At least one checked","0",1035
+,"2024","2024","Wisconsin","55","Vaginal","1","No","2","None checked","1",39656
+,"2024","2024","Wisconsin","55","Vaginal","1","No","2","Unknown or Not Stated","9",115
+,"2024","2024","Wisconsin","55","Vaginal","1","Unknown or Not Stated","9","None checked","1",198
+,"2024","2024","Wisconsin","55","Cesarean","2","Yes","1","At least one checked","0",127
+,"2024","2024","Wisconsin","55","Cesarean","2","Yes","1","None checked","1",6621
+,"2024","2024","Wisconsin","55","Cesarean","2","Yes","1","Unknown or Not Stated","9",22
+,"2024","2024","Wisconsin","55","Cesarean","2","No","2","At least one checked","0",246
+,"2024","2024","Wisconsin","55","Cesarean","2","No","2","None checked","1",9236
+,"2024","2024","Wisconsin","55","Cesarean","2","No","2","Unknown or Not Stated","9",45
+,"2024","2024","Wisconsin","55","Cesarean","2","Unknown or Not Stated","9","None checked","1",46
+,"2024","2024","Wisconsin","55","Unknown or Not Stated","9","Yes","1","None checked","1",10
+,"2024","2024","Wisconsin","55","Unknown or Not Stated","9","No","2","None checked","1",240
+,"2024","2024","Wisconsin","55","Unknown or Not Stated","9","Unknown or Not Stated","9","Unknown or Not Stated","9",37
+,"2024","2024","Wyoming","56","Vaginal","1","Yes","1","None checked","1",122
+,"2024","2024","Wyoming","56","Vaginal","1","No","2","At least one checked","0",83
+,"2024","2024","Wyoming","56","Vaginal","1","No","2","None checked","1",4205
+,"2024","2024","Wyoming","56","Cesarean","2","Yes","1","None checked","1",672
+,"2024","2024","Wyoming","56","Cesarean","2","No","2","At least one checked","0",21
+,"2024","2024","Wyoming","56","Cesarean","2","No","2","None checked","1",969
+"---"
+"Dataset: Natality, 2016-2024 expanded"
+"Query Parameters:"
+"Year: 2022; 2023; 2024"
+"Group By: Year; State of Residence; Delivery Method; Previous Cesarean Delivery; Maternal Morbidity Checked"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality-expanded.html for more information."
+"---"
+"Query Date: Jul 15, 2026 12:25:47 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2024, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on Jul 15, 2026 12:25:47 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Births are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality-expanded.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."
